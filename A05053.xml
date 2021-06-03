@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Search the Scriptures. Or, An enquirie after veritie Discoursing of, and discussing the Scriptures sufficiencie. Perspicuitie. Necessitie. By George Langford, Bachelour of Diuinitie, and minister of Gods Word, at Mortlake, neere London.</title>
+            <author>Langford, George.</author>
+         </titleStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A05053</idno><idno type="EEBO-CITATION">99843917</idno>
+  <idno type="VID">8682</idno>
+  <idno type="EEBO-PROQUEST">2240899530</idno>
+  <idno type="STC">STC 15194</idno>
+  <idno type="STC">ESTC S108245</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843917e"/>
+            <note>(EEBO-TCP ; phase 2, no. A05053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8682)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1314:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Search the Scriptures. Or, An enquirie after veritie Discoursing of, and discussing the Scriptures sufficiencie. Perspicuitie. Necessitie. By George Langford, Bachelour of Diuinitie, and minister of Gods Word, at Mortlake, neere London.</title>
+                  <author>Langford, George.</author>
+               </titleStmt>
+               <extent>[12], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G[eorge] P[urslowe] for Iohn Clarke, and are to be sold at his shop vnder Saint Peters Church in Cornehill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Discoursing of, and discussing the Scriptures", and " sufficiencie. Perspicuitie. Necessitie." are bracketed together on the title page.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of the original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Version, Catholic vs. Protestant --  Early works to 1800.</term>
+               <term type="uniform_title">Bible --  Reading --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8682:1"/>
+            <pb facs="tcp:8682:1"/>
+            <p>SEARCH THE SCRIPTVRES. <hi>OR,</hi> AN ENQVIRIE AFTER VERITIE. Discoursing of, and discussing the Scriptures
+<list>
+                  <item>
+                     <hi>Sufficiencie.</hi>
+                  </item>
+                  <item>
+                     <hi>Perspicuitie.</hi>
+                  </item>
+                  <item>
+                     <hi>Necessitie.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By <hi>George Langford,</hi> Bachelour of Diuinitie, and Minister of Gods <hi>Word,</hi> at <hi>Mortlake,</hi> neere LONDON.</p>
+            <q>
+               <bibl>
+                  <hi>Tertullian. lib. de Resurrect. Carnis.</hi>
+               </bibl>
+               <p>Anfer haereticis quae cum Ethnicis sapiunt, vt de solis Scripturis Quaestiones suas sistant, &amp; stare non possunt.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pet. Lombard. prolog. in libros Sentent.</hi>
+               </bibl>
+               <p>Jn hoc Tractatu non solùm pium Lectorē, sed etiam liberum Corre<g ref="char:EOLhyphen"/>ctorem desidero; Maximè vbi profunda versatur veritatis Quae<g ref="char:EOLhyphen"/>stio, quae vtinā tot haberet Inuentores, quot habet Contradictores.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. P.</hi> for <hi>Iohn Clarke,</hi> and are to be sold at his Shop vnder Saint <hi>Peters</hi> Church in <hi>Corne<g ref="char:EOLhyphen"/>hill. Anno Dom.</hi> 1623.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:8682:2"/>
+            <pb facs="tcp:8682:2"/>
+            <head>TO THE RIGHT VVORSHIPFVLL, Wise, and worthy Gentleman, M<seg rend="sup">r.</seg>
+               <hi>Leuinus Munk,</hi> Esquire, one of his Maiesties learned Clerkes of the Signet, <hi>G.L.</hi> wish<g ref="char:EOLhyphen"/>eth <hi>euent of all possible felicitie, with grace and glory.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince I first vowed to consecrate this <hi>rude</hi> and <hi>rural brood</hi> of my <hi>braine</hi> to your wor<g ref="char:EOLhyphen"/>thy Name, I haue <hi>ouer-slipt</hi> occasion, &amp; <hi>Endimion</hi>-like <hi>ouer-slept</hi> my selfe in the Land of Obliuion. For we liue in an Age so mercilesse to Inke and Paper, that I resolued to silence these my la<g ref="char:EOLhyphen"/>bors,<note n="a" place="margin">Seneca, in Troa. Act. <hi>3.</hi>
+               </note>
+               <hi>Lateat, haec vna salus,</hi> as <hi>Vlysses</hi> aduised <hi>An<g ref="char:EOLhyphen"/>dromacha</hi> in the Tragedie. And are there not
+<pb facs="tcp:8682:3"/> many curious, enuious and enuenomed Paper-wormes, Pioners, and vnderminers of other mens good endeauors? <hi>Aristarchus</hi> with his blacke-pile, <hi>Momus</hi> with his sponge,<note n="b" place="margin">Martial. Epi<g ref="char:EOLhyphen"/>gram. lib. <hi>1.</hi> sect. <hi>59.</hi>
+               </note>
+               <hi>Laelius</hi> with his pen, our Romish Magnificoes with their pencill, audaciously dash out whatsoeuer displeaseth thē, tho otherwise neuer so iudiciously limmed and portraid, as is, or may be perspicuous to the dim<g ref="char:EOLhyphen"/>mest apprehension.</p>
+            <p>Most of our Readers iudge of our VVritings, either<note n="c" place="margin">Nazianz. Apo<g ref="char:EOLhyphen"/>loget.</note>
+               <hi>Secundùm praeiudicium allatum,</hi> as <hi>Nazian<g ref="char:EOLhyphen"/>zen</hi> speaketh; or<note n="d" place="margin">Seneca, epist.</note>
+               <hi>Secundùm affectionem innatam,</hi> as <hi>Seneca</hi> saith. Some would haue all our discour<g ref="char:EOLhyphen"/>ses pregnant, cooked for the stomack of the <hi>Cri<g ref="char:EOLhyphen"/>ticke:</hi> Others <hi>delight</hi> onely in the <hi>lightsome</hi> and <hi>delightsome,</hi> in the <hi>rectified</hi> and <hi>refined</hi> quiddities of rare Inuention: A third sort please themselues in the <hi>curoius,</hi> yet <hi>course</hi> and despicable Speculati<g ref="char:EOLhyphen"/>ons of the <hi>Skepticks.</hi> The Schoole-man wisheth to be led into the large VVildernesse of extrauagant opinions; where he, not seldome loseth himselfe in the Maze and Labarynth of his looser curiosi<g ref="char:EOLhyphen"/>tie. In this <hi>Babel</hi> of distracted, distempered, and diuided minds, not <hi>Solon,</hi> not <hi>Salomon,</hi> not Nature, not the GOD of Nature can please all! not Na<g ref="char:EOLhyphen"/>ture; for some haue quarrel'd with her, for placing the Oxes hornes vpon his head, and not vpon his shoulders which are the stronger. Not the God of Nature; for<note n="e" place="margin">The Sonne of <hi>Titan,</hi> the Brother of <hi>Saturne.</hi>
+               </note>
+               <hi>Typhaeus</hi> the Giant will haue an higher Firmament vnder which hee may walke, and bigger Starres to giue bigger light, otherwise
+<pb facs="tcp:8682:3"/> he will pull them downe with a vengeance, and<note n="f" place="margin">Nisi homini placeat Deus, non fit Deus. Tertul. Apologet. cap. <hi>5.</hi> Euseb. Eccles. hist. lib. <hi>2.</hi> cap. <hi>2.</hi>
+               </note> fight with <hi>Iupiter</hi> himselfe. Let me then pro<g ref="char:EOLhyphen"/>fesse with that ancient, if not antiquated Poet <hi>Lu<g ref="char:EOLhyphen"/>cilius: Me paucis malle à sapientibus esse probatum:</hi> for I would not be a Monster to please all men; no, I desire to displease ill men, for<note n="g" place="margin">Seneca. epist. <hi>77.</hi>
+               </note>
+               <hi>Malis displicere, laudari est,</hi> saith <hi>Seneca.</hi>
+            </p>
+            <p>Howsoeuer, I haue aduentured to enter into the Lists of these<note n="h" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Thu<g ref="char:EOLhyphen"/>cid. lib. <hi>2.</hi>
+               </note> polemicall essayes, that so I might be sure to please the most; for mans body is not more compos'd of <hi>contraries,</hi> then is this Age of <hi>controuersies.</hi> True it is, that this feeble Infant of my Intellect, is farre vnable to grapple with the greatest Giants, yet your learned protection shall beelike <hi>Aiaxes</hi> Buckler, to shield it safe against detraction. It comes against these Romish <hi>Goliahs</hi> with<note n="i" place="margin">1. <hi>Sam.</hi> 17.40.</note>
+               <hi>Dauids</hi> staffe, the staffe of the bread of Life, the <hi>Word</hi> of the Lord. It comes against them with <hi>Dauids</hi> smooth stones, chosen out of that <hi>choisest</hi> and <hi>chiefest</hi> brooke, the Booke of GOD, which welles out the Nectarine and celestiall Torrents of the water of Life. Smooth are these stones, yet harder then the <hi>Egyptian</hi> Marble; smooth they are, not curiously cut, not<note n="k" place="margin">
+                  <hi>Exod.</hi> 28.11.</note> embossed in gold like <hi>Aarons</hi> Onyx stones; not amorously enammeled with the inchanting soule-charming characters of glozing Rhetoricke. For who knowes not that Truth loues to be chastly naked, in the chase and pursuit of saluage Sauages, with chaste <hi>Diana;</hi> when as Falshood like<note n="l" place="margin">
+                  <hi>Gen.</hi> 38.14.</note>
+               <hi>Thamar,</hi> hoodwinkes herselfe, and puts on the gairish, the
+<pb facs="tcp:8682:4"/> Whorish attire of a Strumpet? Who knowes not that the best Olympicke Wrestlers wrestled ked, that so their Spectators might behold the comely proportion of their bodies, and their An<g ref="char:EOLhyphen"/>tagonists might take no hold vpon them? Yet sometimes I place this Pigmey so plainely accom<g ref="char:EOLhyphen"/>plisht, vpon the shoulders of the greatest Giants, of the greatest Grand-parents and Patriarches of the Primitiue Church, that so with<note n="m" place="margin">Iob 59.32.</note>
+               <hi>Iobs</hi> Eagle, thence she may spie for the space of her flight, and that her eyes may behold a farre off. For I haue euer deem'd them the base-borne birth of vile and seruile natures, who Foster-faction so farre, as fastidiously to contemne, to disdaine the Foster-fathers of the Church.<note n="n" place="margin">Plutarch</note> That Oracle at <hi>Delphos</hi> was more discreet then these, which answered <hi>Zeno</hi> the Philosopher, that hee should become happy, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith <hi>Plutarch,</hi> were hee complexioned like the dead, that is, were he deuoted and addicted to the study of the Antique Ancients. I haue therefore taught this wandring <hi>Dina,</hi> to speak her Fathers &amp; her Mothers tongue; I haue tutored her to regulate her speech and par<g ref="char:EOLhyphen"/>lie, partly according to the Axioms of the prime Fathers, and partly according to the Actions of the Primitiue Church. Now, tho I still am iea<g ref="char:EOLhyphen"/>lous of her rude education, yet am I bold to send her<note n="o" place="margin">Veritas nun<g ref="char:EOLhyphen"/>quam late<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Vlys<g ref="char:EOLhyphen"/>ses apud Senec. in Troa. Act. <hi>3.</hi>
+               </note> abroad, vnder the fauourable Patronage of your protecting acceptance, as a pledge of my due and true desire, to shew my selfe thankfull vnto you, for the many vnmerited fauors I haue recei<g ref="char:EOLhyphen"/>ued
+<pb facs="tcp:8682:4"/> from you. So worthy is your deportment, so courteous your demeanour, so studious your de<g ref="char:EOLhyphen"/>signes, so industrious your endeauors, to endeere others vnto you; that <hi>Silenus</hi> himselfe, in his most poysonful Pasquill, cānot once carpe at your <hi>inge<g ref="char:EOLhyphen"/>nious</hi> carriage. But your great modestie prohibits me to extoll in presence, and your splendent Ver<g ref="char:EOLhyphen"/>tues suggest vnto me, that they are sufficiently able to bee their owne Heralds. This onely I cannot conceale, your zeale to Gods House, not only in <hi>beutifying</hi> the Church with your <hi>presence,</hi> but in <hi>beatifying,</hi> in <hi>gratifying</hi> the Church-man with your <hi>Presents. Beneficiall</hi> was you to my Prede<g ref="char:EOLhyphen"/>cessours, but <hi>bountifull</hi> vnto mee your present Preacher; for your remunerating hand hath not been shorted toward me, but much enlarged. So then to dedicate this poore discourse to your eter<g ref="char:EOLhyphen"/>nall Name, is but with <hi>Chaerilus</hi> to present a few harsh Verses vnto <hi>Alexander:</hi> For this small Mite this little Monument, is no more equiualent to the maine debt I owe you, then is a Mole-hill to a Mountaine.</p>
+            <p>It was one of <hi>Lycurgusses</hi> Lawes enioyned the <hi>Lacedaemonians,</hi> to offer little Sacrifices vnto their gods, seeing they respect more the internall Deuo<g ref="char:EOLhyphen"/>tion, then the externall Oblation: So the inge<g ref="char:EOLhyphen"/>nuitie of your gentle disposition, hath bin a Spur to prick me on, to present this little Sacrifice of my simple seruice vnto your worthy selfe, <hi>Nam{que} tu solebas meas esse aliquid putare nugas:</hi> You haue euer more regarded the inward <hi>affection,</hi> then the outward <hi>action.</hi>
+            </p>
+            <pb facs="tcp:8682:5"/>
+            <p>And thus in my most true and sincerest <hi>loue,</hi> I humbly take my <hi>leaue,</hi> leauing you and yours to the heauenly Patronage, Protection and Tuition of him, who neuer leaueth his.</p>
+            <closer>
+               <signed>
+                  <hi>Your Worships dayly<lb/> Orator, euer in all dutie,<lb/> and Christian deuotion,</hi>
+                  <lb/> GEORGE LANGFORD.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:8682:5"/>
+            <head>The Contents of the seuerall Sections, contain'd in this ensuing <hi>Treatise.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>Sect. 1. pag. 1.</head>
+               <p>
+                  <hi>1.</hi> The meanes to attaine knowledge. <hi>2.</hi> Why the Word of God is called Scripture. <hi>3.</hi> Why Holy. <hi>4.</hi> Why Canonicall.</p>
+            </div>
+            <div n="2" type="section">
+               <head>Sect. 2. p. 2.</head>
+               <p>
+                  <hi>1.</hi> Traditions are not that Rule. <hi>2.</hi> What the Pa<g ref="char:EOLhyphen"/>pists hold concerning traditions. <hi>3.</hi> The Scrip<g ref="char:EOLhyphen"/>tures sufficiencie is proued. <hi>4.</hi> An obiection disproued.</p>
+            </div>
+            <div n="3" type="section">
+               <head>Sect. 3. p. 8.</head>
+               <p>
+                  <hi>1</hi> Apocryphall Bookes reiected. <hi>2.</hi> The Councill of <hi>Trent</hi> vellicated. <hi>3.</hi> The Councill of <hi>Flo<g ref="char:EOLhyphen"/>rence</hi> vendicated. <hi>4.</hi> The practice of the Church of <hi>England</hi> cleered.</p>
+            </div>
+            <div n="4" type="section">
+               <head>Sect. 4. p. 12.</head>
+               <p>
+                  <hi>1.</hi> The Scriptures are sufficient, tho some Bookes were lost. <hi>2.</hi> No part of the Canon perished. <hi>3.</hi> Many obiections answered.</p>
+            </div>
+            <div n="5" type="section">
+               <pb facs="tcp:8682:6"/>
+               <head>Sect. 5. p. 19.</head>
+               <p>
+                  <hi>1.</hi> The Originall Copies only Authenticall. <hi>2.</hi> They are not corrupted. <hi>3.</hi> The vulgar version a per<g ref="char:EOLhyphen"/>uerse Translation. <hi>4.</hi> Scriptures haue beene anci<g ref="char:EOLhyphen"/>ently translated. <hi>5.</hi> Our New Translation, no meane testification, of his Maiesties sincerity in Religion.</p>
+            </div>
+            <div n="6" type="section">
+               <head>Sect. 6. p. 25.</head>
+               <p>
+                  <hi>1.</hi> The Laitie must reade the Scriptures. <hi>2.</hi> The Pope prohibits them. <hi>3.</hi> He is the Beast butchering the two Witnesses. <hi>4.</hi> Women permitted the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            </div>
+            <div n="7" type="section">
+               <head>Sect. 7. p. 33.</head>
+               <p>
+                  <hi>1.</hi> The Scriptures not obscure in themselues. <hi>2.</hi> To vs they are by accident. <hi>3.</hi> They are difficult, but not all, not to all, not alwayes. <hi>4.</hi> The conclusion with exhortation.</p>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <p>MOst <hi>Courteous Reader,</hi> some little literall faults (at least) will passe at the Presse, maugre the strictest Inquisition of the most <hi>curious Reuisor.</hi> Those I pray thee suppresse with patience, or supply with diligence: So shalt thou singularly obliege me, to thy singular humanity.</p>
+            <closer>
+               <signed>G. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:8682:6"/>
+            <head>SEARCH THE SCRIPTVRES. <hi>OR,</hi> AN ENQVIRIE AFTER VERITIE.</head>
+            <div n="1" type="section">
+               <head>Sect. 1.</head>
+               <argument>
+                  <p>
+                     <hi>1.</hi> The meanes to attaine knowledge. <hi>2.</hi> Why the Word of God is called Scripture. <hi>3.</hi> Why Holy. <hi>4.</hi> Why Canonicall.</p>
+               </argument>
+               <p n="1">1. <seg rend="decorInit">T</seg>He most exact and certaine <label type="milestone">
+                     <seg type="milestoneunit">Conclusion </seg>I</label> meanes to attaine vnto the knowledge of all diuine Truth, is the Holy Canonical Scrip<g ref="char:EOLhyphen"/>ture, written or approoued by the Prophets and Apostles.</p>
+               <p n="2">2. Which is called the <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> in regard of the superemi<g ref="char:EOLhyphen"/>nent excellencie thereof, being vnto all other writings as <hi>Iosephs</hi> sheafe vnto his Brethrens,<note place="margin">
+                     <hi>Gen.</hi> 37.7.</note> as the Sunne vnto the lesser Starres.</p>
+               <p n="3">
+                  <pb n="2" facs="tcp:8682:7"/>3 And it is also called <hi>Holy,</hi> 1. Because of the Au<g ref="char:EOLhyphen"/>thor, who is God, Holy and true, <hi>Reu.</hi> 3.7. 2. In regard of the instrumentall causes or Pen-men of it, who were holy men, 2. <hi>Pet.</hi> 1.21. 3. In respect of the matter, which is the holy will and Counsell of our God, <hi>Acts</hi> 20.27. 4. In respect of the Forme, which is the conformitie of it with God himselfe, <hi>Psal.</hi> 19.7. 5. In regard of the finall cause or end thereof, which is to make vs <hi>Holy,</hi> 2. <hi>Tim.</hi> 3.17.</p>
+               <p n="4">
+                  <note place="margin">Tertul. cont. Her<g ref="char:EOLunhyphen"/>mog. Chrys. Hom. <hi>13.</hi> in <hi>2.</hi> Cor. Orat. de ijs qui adeunt Hierusal.</note>4. Lastly, it is called <hi>Canonicall,</hi> because it is, as <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> calleth it, <hi>The rule of Faith;</hi> as <hi>Chrysostome,</hi> A most exquisite Rule; as <hi>Gregory Nyssen;</hi> an inflexible Rule.</p>
+            </div>
+            <div n="2" type="section">
+               <head>Sect. 2.</head>
+               <argument>
+                  <p>
+                     <hi>1.</hi> Traditions are not that Rule. <hi>2.</hi> What the Pa<g ref="char:EOLhyphen"/>pists hold concerning traditions. <hi>3.</hi> The Scrip<g ref="char:EOLhyphen"/>tures sufficiencie is proued. <hi>4.</hi> An obiection disproued.</p>
+               </argument>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Conclusion </seg>II</label> 1. VNwritten Traditions, whether Apostolicall or Ecclesiasticall, are not the rule of faith, as exquisite, as inflexible as the Scripture. Who but <hi>Moab,</hi> settled vpon her lees; or <hi>Babylon,</hi> intoxicated with the <hi>Cyrcean</hi> cup of fornication, could endure new wine to bee powred into old vessels? Or a piece of new cloth to be patched to an old garment?</p>
+               <p n="2">
+                  <note place="margin">Ita sunt acutè obtusi. Pari veneratio<g ref="char:EOLhyphen"/>ne, pari pietatis affectu: Concil. Triden. Sess. <hi>4.</hi> Decret. <hi>1.</hi>
+                  </note>2. Our Aduersaries the Papists audaciously affirme, That vnwritten Truths are equiualent to the written Word of God, and to be embraced with no lesse pious affection, and affectionate veneration, then the sacred Bookes of authenticke Writ. Against whom I will
+<pb n="3" facs="tcp:8682:7"/> proue, that the Scripture is sufficient, containing in it all doctrines needfull to saluation. And I will manifest this vnto you, three wayes: 1. By manifold and ex<g ref="char:EOLhyphen"/>presse Texts of Scripture. 2. By the ancient authori<g ref="char:EOLhyphen"/>ty of some ancient and holy Fathers. 3.<note n="*" place="margin">Ad probandam veritatem nihil efficacius testi<g ref="char:EOLhyphen"/>monio aduersari<g ref="char:EOLhyphen"/>orum: Gregorius Achiepiscop. Na<g ref="char:EOLhyphen"/>zaren. in com<g ref="char:EOLhyphen"/>mendat. Petri Galatini, ex Ia<g ref="char:EOLhyphen"/>cob Maxwel. Deut. <hi>4.2.</hi> &amp; Deut. <hi>12.</hi> vlt. v. similia verba ha<g ref="char:EOLhyphen"/>bentur. Si non licuit Iudaeis ali<g ref="char:EOLhyphen"/>quid addere ad libros Mosis, tum multò minùs no<g ref="char:EOLhyphen"/>bis licet aliquid addere ad Scrip<g ref="char:EOLhyphen"/>turae Canonem, iam tot libris auctum à tempo<g ref="char:EOLhyphen"/>re Mosis. Thomas <hi>3.</hi> q. <hi>60.</hi> Art. <hi>8.</hi> Verbis sacrae Scripturae nihil addendum aut minuendum esse. Caietamis in hunc locum ait, Hinc colligi le<g ref="char:EOLhyphen"/>gem Dei esse per<g ref="char:EOLhyphen"/>fectam. Vide Io<g ref="char:EOLhyphen"/>seph. apud Euseb. Lib. <hi>3.</hi> cap. <hi>8.</hi>
+                  </note> By mani<g ref="char:EOLhyphen"/>fest testimonies of some modern, but renowned Papists.</p>
+               <p>First, I proue it by some places of sacred Writ; and first by that place, <hi>Deut.</hi> 4.2. Ye shall not adde vnto the Word which I command you, neither shall you di<g ref="char:EOLhyphen"/>minish ought from it. Which place, tho <hi>Bellarmine</hi> in<g ref="char:EOLhyphen"/>terprets of the vnwritten word also: yet their Angeli<g ref="char:EOLhyphen"/>call Doctor <hi>Aquinas,</hi> whom the Pope hath canonized for a Saint, and his doctrine for authenticall, expounds it of adding to the Words of the Scripture. Yea, their ingenious Cardinall <hi>Caietan,</hi> ingeniously desires vs from this place to collect, That Gods Law is perfect.</p>
+               <p>Secondly, by that place, <hi>Pro.</hi> 30.6. Adde thou not vnto his Word, lest he reproue thee, and thou be found a Lyar. Which place S. <hi>Hierom</hi> vnderstandeth of the Holy Scriptures.</p>
+               <p>Thirdly, The Prophet <hi>Isaiah,</hi> teaching what course must be taken in cases of difficulty, sends vs to the writ<g ref="char:EOLhyphen"/>ten Word, as sufficient to resolue all doubts and scru<g ref="char:EOLhyphen"/>ples whatsoeuer, <hi>Esa.</hi> 8.20. To the Law and to the Testimonie; if they speak not according to this Word, it is because there is no light in them. Vpon which words<note n="b" place="margin">Hieron. in lo<g ref="char:EOLhyphen"/>cum.</note> S. <hi>Ierom</hi> assents with vs, saying, If your Con<g ref="char:EOLhyphen"/>gregations will not seeke the Word of the Lord, they cannot attaine the light of truth, but shall walke, shall wander in the darkenesse of Error.</p>
+               <p>Fourthly, Saint <hi>Iohn</hi> sets downe the full end of the whole written Word: which is to bring men to faith, and consequently to eternall happinesse, <hi>Ioh.</hi> 20.31. <hi>These things are written, that ye might beleeue that Jesus is the Christ, the Sonne of God, and that beleeuing, yee might haue life through his Name:</hi> Which place both <hi>Cyrill,</hi>
+                  <pb n="4" facs="tcp:8682:8"/> and <hi>Austin</hi> vnderstand of the sufficiency of Scripture.<note place="margin">Cyrill lib. <hi>12.</hi> in Ioan. cap. <hi>68.</hi> August. in Ioan. Tract. <hi>49.</hi> &amp; <hi>1.</hi> lib. de consensu Euangelist. c. <hi>35.</hi>
+                  </note>
+                  <hi>Lyranus</hi> sayes, These words expresse, and explicate the profit and vtility of this doctrine. Neither doth S. <hi>Iohn</hi> here speake onely of the miracles of our Sauiour: for he speakes of such a faith as we call iustifying, which will bring a man to euerlasting life; which, miraculous faith of it selfe wil neuer do. Hence <hi>Hugo Cardinalis</hi> auerres, that in these words is indeed declared the speciall in<g ref="char:EOLhyphen"/>tention of this Booke,<note place="margin">Augustinus etiā in hunc locum tract. <hi>122.</hi> ait finem huius libri his verbis indica<g ref="char:EOLhyphen"/>ri. Sic &amp; Ianse<g ref="char:EOLhyphen"/>nius ait, libri to<g ref="char:EOLhyphen"/>tius finem his verbis intelligi. <hi>Ren. 1.9.</hi>
+                  </note> but more generally, the whole scope of the holy Scripture. And I would haue it ob<g ref="char:EOLhyphen"/>serued, that this Gospell was written against <hi>Cerinthus</hi> and his adherents, who first started vp in the yeare of Christ, 95. Yea, it was written after all other Scrip<g ref="char:EOLhyphen"/>tures, except perhaps the <hi>Reuelation,</hi> which was writ<g ref="char:EOLhyphen"/>ten by him in the Ile <hi>Pathmos,</hi> in the fifteenth yeere of <hi>Domitian,</hi> which was in the yeere of Grace, 97.</p>
+               <p>Fiftly, Those words of S. <hi>Paul, Acts</hi> 20.27. I haue not shunned to declare vnto you all the Counsell of God,<note n="a" place="margin">De omni con<g ref="char:EOLhyphen"/>silio Dei, quantū ad humanam spectat salutem. <hi>Carthus.</hi> in <hi>Act. 20.</hi>
+                  </note>
+                  <hi>Carthusian</hi> expounds of the Counsell of God, so farre forth as appertaineth to mans saluation. I intend not to be tedious, let me onely referre you to some o<g ref="char:EOLhyphen"/>ther pregnant places of Scripture, and full of sinewes to inferre and inforce the Scriptures sufficiency. As <hi>Reu.</hi> 22.18. <hi>Gal.</hi> 1.8. 2. <hi>Tim.</hi> 3.16, 17. <hi>Psal.</hi> 19.8. <hi>Luk.</hi> 1.3, 4. <hi>Mat.</hi> 15.6. <hi>Luk.</hi> 16.29. <hi>Luk.</hi> 24.25, 27. <hi>Ioh.</hi> 5.39. <hi>Act.</hi> 1.1. <hi>Act.</hi> 17.2, 3. <hi>Act.</hi> 28.24, 28. <hi>Act.</hi> 24.14 <hi>Act.</hi> 26.22. <hi>Rom.</hi> 1.2. <hi>Rom.</hi> 10.17. <hi>Rom.</hi> 15.4. <hi>Ephes.</hi> 2.19, 20. 2. <hi>Pet.</hi> 1.19.</p>
+               <p>
+                  <note place="margin">Iob 12.12. Iob 32.7.</note>But because among the Ancient is wisedome, and in the length of dayes is vnderstanding, let the dayes speake, and the multitude of yeeres teach wisedome. Plainly: If any man suspend his assent and iudgement till the Fathers haue brought in their verdict, let him heare what those three foremen of the Iurie, <hi>Dionysius, Irenaeus,</hi> and <hi>Tertullian</hi> haue left recorded as vpon their Oath.</p>
+               <pb n="5" facs="tcp:8682:8"/>
+               <p>First,<note place="margin">Act. 17.34.</note>
+                  <hi>Dionysius Areopagita</hi> supposed by them to liue in the dayes of the Apostles,<note n="*" place="margin">De Diuinis no<g ref="char:EOLhyphen"/>minibus. cap <hi>1.</hi>
+                  </note> durst not either speake or thinke any thing of the most high and abstruse Diuini<g ref="char:EOLhyphen"/>ty, saue that onely which the Diuine Scriptures haue reuealed.</p>
+               <p>Secondly,<note n="a" place="margin">Irenae. l. <hi>3.</hi> cap. <hi>1.</hi> Non per alios dispositionem sa<g ref="char:EOLhyphen"/>lutis nostrae cog<g ref="char:EOLhyphen"/>nouimus, quàm per eos, per quos Euangelium per<g ref="char:EOLhyphen"/>uenit ad nos, quod quidem, tunc praeconiaue<g ref="char:EOLhyphen"/>runt, postéa verò per Dei volunta<g ref="char:EOLhyphen"/>tem in Scripturis nobis tradiderūt, fundamentum et columnam fidei nostrae futurum.</note>
+                  <hi>Jrenaeus,</hi> whose hoarie head makes him venerable, as liuing in the yeere of Christ 180. relyed onely vpon this foundation and pillar of our faith.</p>
+               <p>Thirdly,<note n="b" place="margin">Adoro plenitu<g ref="char:EOLhyphen"/>dinem scripturae, quae mihi factorē manifestat, &amp; facta: Tertul. lib. contra Hermog.</note>
+                  <hi>Tertullian,</hi> that famous Worthy, whom the Lord thought worthy to liue aboue 1400. yeeres since, did adore the plenitude and perfection of the Scriptures. To these I might adde a cloud of witnesses; As<note n="c" place="margin">Orig. in Com<g ref="char:EOLhyphen"/>ment. in cap. <hi>3.</hi> ad Roman. in hom. <hi>25.</hi> in Mat. in hom. <hi>3.</hi> in Genes. in hom. <hi>7.</hi> in Ezek. in hom. <hi>1.</hi> in Hier. in omnibus his locis oppugnat traditiones.</note>
+                  <hi>Origen,</hi>
+                  <note n="d" place="margin">Scripturae sufficiunt and omnem veritatis instructionem: Athan. contra Gent.</note>
+                  <hi>Athanasius,</hi> and the rest.<note n="e" place="margin">Chrys. in hom. <hi>3.</hi> in <hi>2.</hi> epist. ad Thessal. Omnia in Scripturis manifesta esse, quae sunt necessaria. In hom. <hi>1.</hi> in Mat. <hi>He auerres,</hi> Scripturis opus esse, quia multi doctrinam corrumpunt. See. Chrys. in hom. <hi>13.</hi> in Gen. in homilia suo in Psal. <hi>95.</hi> in hom. <hi>13.</hi> in <hi>2.</hi> epist. ad Corinth.</note> S. <hi>Chrysostom</hi> is ours in sundry places. Illustrious is the Testimonie of<note n="f" place="margin">Theodoret. histor. Eccles. lib. <hi>1.</hi> cap. <hi>7.</hi>
+                  </note>
+                  <hi>Constantine</hi> the Great, in the first <hi>Nicen</hi> Councell: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Yea, <hi>S</hi>
+                  <note n="g" place="margin">Basil. in lib. de confessione fidei.</note>
+                  <hi>Basill</hi> himself sayes, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. It is a manifest marke of arrogant infidelity, either to reiect any thing that is written, or to referre any thing more to that which is already written. It would be too long to al<g ref="char:EOLhyphen"/>leadge the Testimonies of<note n="h" place="margin">Epiphani. in haeres. <hi>61.</hi> &amp; <hi>69.</hi>
+                  </note>
+                  <hi>Epiphanius,</hi> of<note n="i" place="margin">Cyril. lib. de fide ad Regin. In lib <hi>12.</hi> in Ioan. Cap. <hi>68.</hi> in hom. <hi>5.</hi> in Leuit.</note>
+                  <hi>Cyrill,</hi> of<note n="k" place="margin">Theophilus Alexandrinus in <hi>2.</hi> Paschali.</note>
+                  <hi>Theophilus Alexandrinus,</hi> of<note n="l" place="margin">Apollinaris vir ille doctus, &amp; valdè ingeniosus apud Euseb. eccles. hist. lib. <hi>5</hi> cap. <hi>15.</hi>
+                  </note>
+                  <hi>Apollinaris,</hi> of<note n="m" place="margin">Cyprian epist. <hi>74.</hi> ad Pompeium contra Steph.</note>
+                  <hi>Cypri<g ref="char:EOLhyphen"/>an,</hi> of<note n="n" place="margin">August. de doctr. Christ. lib. <hi>2.</hi> cap. <hi>9.</hi> De peccat. merit. &amp; remission. lib. <hi>2.</hi> cap. vlt. contra liter. Petilic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i lib. <hi>3.</hi> cap <hi>6.</hi> De Ciuit. Dei, lib. <hi>19.</hi> cap <hi>18.</hi> Tract. <hi>2.</hi> in epist. Ioan. Epist. <hi>163.</hi> lib. de pastoribus, cap. <hi>14.</hi> Confes. lib. <hi>6.</hi> cap. <hi>5.</hi>
+                  </note>
+                  <hi>Iustine,</hi> of <hi>Ierome,</hi> of<note n="o" place="margin">Hieron. epist. ad Ctesiphontem, in fine Comment. in Mich. <hi>1.</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ambr. in Comment. Luk. <hi>16.</hi> Ad Gratianum de fide, cap. <hi>4.</hi>
+                  </note>
+                  <hi>Ambrose,</hi> &amp; of the rest of
+<pb n="6" facs="tcp:8682:9"/> the Authentique Ancients, whose ancient and venera<g ref="char:EOLhyphen"/>ble writings point out vnto vs the plenitude of the Scriptures.</p>
+               <p>But tho the Papists in reuerence will not rise vp be<g ref="char:EOLhyphen"/>fore the hoare-head, and honour the persons of these Ancients, yet it may be, they will respect the testimony and authority of their owne Writers: for because that they are the people onely, wisedome must die with thē, as <hi>Job</hi> spake to his heauy friends, <hi>Iob</hi> 12.2. I will there<g ref="char:EOLhyphen"/>fore proue this our assertion by the Testimony of some of the most approued Popish Writers.</p>
+               <p n="1">1<note n="a" place="margin">Victor. de sa<g ref="char:EOLhyphen"/>cra &amp; relect. <hi>8.</hi> de aug. Charit. ex Whit.</note>
+                  <hi>Franciscus à Victoria,</hi> A Spanish Fryer, would be<g ref="char:EOLhyphen"/>leeue no doctrine which is not contained in the Scrip<g ref="char:EOLhyphen"/>ture, although all Writers should auerre the same.</p>
+               <p n="2">2<note n="b" place="margin">Melchior Ca<g ref="char:EOLhyphen"/>nus de locis The<g ref="char:EOLhyphen"/>olog. lib. <hi>7.</hi> cap. <hi>3.</hi>
+                  </note>
+                  <hi>Canus,</hi> a learned Schoole-doctor, and a Popish Bishop, sayes, that the Canon of the Scripture is per<g ref="char:EOLhyphen"/>fect, and most sufficient of it selfe to euery end.</p>
+               <p n="3">3<note n="c" place="margin">Scripturae suf<g ref="char:EOLhyphen"/>ficienter conti<g ref="char:EOLhyphen"/>nent doctrinam viatori necessari<g ref="char:EOLhyphen"/>am. Scotus in prologo in Lom<g ref="char:EOLhyphen"/>bardum.</note>
+                  <hi>Scotus,</hi> that renowned Schoole-man, in his prologue vpon <hi>Peter Lombard,</hi> saith, that the Scrip<g ref="char:EOLhyphen"/>tures sufficiently containe all doctrines needfull to sal<g ref="char:EOLhyphen"/>uation.</p>
+               <p n="4">4<note n="d" place="margin">Aquinas in ca<g ref="char:EOLhyphen"/>tena aurea. in loc. Micae istae de illo pane sunt: &amp; quiapanis verbū, &amp; fides verbi est, micae velut quaedam dogma<g ref="char:EOLhyphen"/>ta fidei sunt: Am<g ref="char:EOLhyphen"/>br. in loc.</note>
+                  <hi>Aquinas</hi> in his <hi>Aurea Catena,</hi> expounding those words of the woman of <hi>Canaan; (The whelps eate of the crums that fall from their Masters Table, Math.</hi> 15.27.) followes the Allegorie with S. <hi>Ambrose,</hi> saying, That the Table is the holy Scripture, that the crummes are the precepts and principles of Religion, by which the Church of Christ is duly, dayly, and daintily fed; and that the whelps who eate these crummes, are GODS faithfull people, who are nourished by these precepts to eternall life, but only by such crummes, by such pre<g ref="char:EOLhyphen"/>cepts as fall from their Masters Table, the sacred Bible.</p>
+               <p>The same <hi>Aquinas</hi> in Comment. in 2. <hi>Tim.</hi> cap. 3. sayes, that the Scriptures doe make the man of GOD <hi>(the Minister)</hi> perfect vnto all good workes.</p>
+               <p>
+                  <hi>Obiect.</hi> But what say you to that place of St. <hi>Paul,</hi>
+                  <pb n="7" facs="tcp:8682:9"/> 2. <hi>Thes.</hi> 2.15. who commands his <hi>Thessalonians</hi> to hold the traditions which they had beene taught,<note place="margin">Nullum Papistae in Scripturis lo<g ref="char:EOLhyphen"/>cum probabiliore inueniunt: Whit<g ref="char:EOLhyphen"/>aker. Disput. de sacr. script.</note> whe<g ref="char:EOLhyphen"/>ther by word or epistle? <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Answer,</hi> If we compare this his Epistle generally with the Bookes of the new Testament, wee shall finde that it was the Ancientest, except the former Epistle, especially if we will credit<note n="a" place="margin">Euseb. Hist. eccles. l. <hi>5.</hi> cap. <hi>8.</hi> Irenae. lib. <hi>3.</hi> cap. <hi>1.</hi> Ait Ire<g ref="char:EOLhyphen"/>naeus Matthaeū scripsisse suum E<g ref="char:EOLhyphen"/>uangelium cum Paulus &amp; Petrus Romae euangeli<g ref="char:EOLhyphen"/>zarent, et funda<g ref="char:EOLhyphen"/>rent Ecclesiam, quod fuit annis post Christi ascen<g ref="char:EOLhyphen"/>sum viginti &amp; ampliùs. At haec quidem Epistola scripta fuit <hi>17.</hi> aut <hi>18.</hi> annis post Christi ascen<g ref="char:EOLhyphen"/>sum, cum Pau<g ref="char:EOLhyphen"/>lus Athenis do<g ref="char:EOLhyphen"/>ceret.</note>
+                  <hi>Eusebius</hi> and <hi>Irenaeus,</hi> yea, it was penned before the Gospell of St. <hi>Matthew,</hi> as may appeare, in that it was written when <hi>Paul</hi> taught at <hi>Athens,</hi> as the postscript imparts, which was about 17. or 18. yeeres after Christs Ascension: whereas the Gospell of S. <hi>Matthew,</hi> as the same <hi>Jrenaeus</hi> auoucheth, was penned at that time when <hi>Paul</hi> and <hi>Peter</hi> founded the Church at <hi>Rome,</hi> 20. yeers at the least after Christs Ascension. It might well fall out therefore, that at that time when this Epistle was penned, some things neces<g ref="char:EOLhyphen"/>sary to saluation were not as yet written, by any either Apostle or Euangelist, but were deliuered by word of mouth; which things notwithstanding were afterward committed to writing. Thus the Word of God went from man to man vnwritten, for the space of 2400. yeeres, vnto the time of <hi>Moses,</hi> who was the first Pen-man of holy Scripture; for I passe ouer <hi>Josephus</hi> his re<g ref="char:EOLhyphen"/>port, that <hi>Adam</hi> writ concerning the Creation, the Fall and Promise. Me thinks then the Church of <hi>Rome</hi> should blush, (if her fore-head dyed red with the blood of Gods Saints, were capable of any tincture of shame,) at the discouery of the manifold, impudent and imper<g ref="char:EOLhyphen"/>tinent impostures of their most solid argumentations. I could here also choake them with S.<note place="margin">Ambros. in <hi>2.</hi> ad Thes. cap. <hi>2.</hi>
+                  </note>
+                  <hi>Ambroses</hi> answer to this Sophisme, who by traditiōs, in this place vnder<g ref="char:EOLhyphen"/>stands the doctrine of the Gospell, which is elsewhere in the Scriptures abundantly expressed. If I should here checke them for straying extremely from the scope of the Holy Ghost, for strayning extrauagantly other Scriptures to speake this language of <hi>Ashdod:</hi> Or if I
+<pb n="8" facs="tcp:8682:10"/> should here inferre the differing and discording opini<g ref="char:EOLhyphen"/>ons of the learned Writers of their owne Religion, vp<g ref="char:EOLhyphen"/>on many places obiected by them, I should exceede the prefixed intended limits of this my Discourse. This therefore shall suffice to shew that our tower against all forts and sorts of tentations; that our wacth-tower, whence afarre off wee descry all necessary Truths, is builded of stones hewed out of the quarry of the Holy Scriptures.</p>
+            </div>
+            <div n="3" type="section">
+               <head>Sect. 3.</head>
+               <argument>
+                  <p>
+                     <hi>1</hi> Apocryphall Bookes reiected. <hi>2.</hi> The Councell of <hi>Trent</hi> vellicated. <hi>3.</hi> The Councell of <hi>Flo<g ref="char:EOLhyphen"/>rence</hi> vendicated. <hi>4.</hi> The practice of the Church of <hi>England</hi> cleered.</p>
+               </argument>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Conclusion </seg>III</label>
+                  <note place="margin">Quas ita{que} Scrip<g ref="char:EOLhyphen"/>turas dicimus Canonicas, nisi Legis &amp; Pro<g ref="char:EOLhyphen"/>phetarum? Aug. de vnit. Eccl. <hi>16.</hi> Conc. Triden. Sess. <hi>4.</hi>
+                  </note>NO Writings are <hi>Scripture,</hi> but such as were written or approued by the Prophets and A<g ref="char:EOLhyphen"/>postles. For, as for those <hi>Apocryphall</hi> Bookes, imperiously thrust vpon Gods Church by the <hi>Triden<g ref="char:EOLhyphen"/>tine</hi> Fathers, they are not to bee admitted into the Ca<g ref="char:EOLhyphen"/>non of Faith.</p>
+               <p>For all the Bookes which doe prophesie of Christ, <hi>apud Judaeos sunt,</hi> saith<note n="a" place="margin">Omnes literae quibus Christus prophetatus est, apud Judaeos sunt: August. in Psal. <hi>56.</hi>
+                  </note>
+                  <hi>Austin,</hi> were kept amongst the <hi>Iewes:</hi> but none of the Apocrypha were written in Hebrew, the language of <hi>Canaan.</hi> In the eighty fourth Canon attributed to the Apostles, all the <hi>Apo<g ref="char:EOLhyphen"/>cryphall</hi> Scriptures which wee exclude out of the Ca<g ref="char:EOLhyphen"/>non, are there also casheered, sauing that this Canon constituteh three books of the <hi>Maccabees,</hi> sacred and Canonicall, whereas the Papists themselues haue euer
+<pb n="9" facs="tcp:8682:10"/> acknowledged but two. The <hi>Laodicen</hi> Councill <hi>exclu<g ref="char:EOLhyphen"/>deth</hi> all those Apocryphall books, which we <hi>extrude</hi> out of the Canon: Which Councill,<note place="margin">
+                     <hi>Can.</hi> 59.</note> though it was of it selfe Prouinciall, yet is it notwithstanding confirmed in the 6. generall Councill. <hi>Trullan.</hi> Synod cap. 2. <hi>Gela<g ref="char:EOLhyphen"/>sius</hi> Bishop of <hi>Rome,</hi> was more moderate then our mo<g ref="char:EOLhyphen"/>derne Papists, who will not yeeld a hoofe; for he makes onely one booke of the <hi>Maccabees</hi> Canonicall, and dis<g ref="char:EOLhyphen"/>claimes the booke of <hi>Wisedome,</hi> not to be <hi>Salomons.</hi>
+               </p>
+               <p>Let vs then abhorre this Popish errour; yea, I say, this Popish heresie, &amp; S. <hi>Austin</hi> shall beare me out in it; for he accounts the <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rescillianists</hi> Heretickes,<note place="margin">Aug. Haeres. <hi>70.</hi>
+                  </note> for ma<g ref="char:EOLhyphen"/>king the Bookes <hi>Apocryphall</hi> of equall authority with the Bookes <hi>Canonicall.</hi>
+               </p>
+               <p>But you smell to much of selfe-opinion, sayes our opinionate and obstinate Papist: for how dare you, without a blush so peremptorily contradict so famous &amp; so renowned a Council, as was the <hi>Tridentine</hi> Synod?</p>
+               <p>But first, who knowes not that this Councill of <hi>Trent</hi> is of no antiquitie? it is so young, that it cannot pronounce <hi>Shibhol<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h,</hi> no not to saue it selfe from the hands o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Gileadites.</hi> 2. Neuer was there any Popish General Council herein so audacious, so presumptuous, before this of <hi>Trent.</hi> True it is, that some impudent Papists, boldly, tho blindly, father a like Decree vpon the Councill of <hi>Florence;</hi> But <hi>Bellarmine,</hi> the Papists <hi>Atlas,</hi> as likewise <hi>Coccius,</hi> the Popes own darling,<note place="margin">Bellar. lib. de verb. Dei. Coccius in The<g ref="char:EOLhyphen"/>sauro Cathol. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om. <hi>1.</hi> Driedo de dog<g ref="char:EOLhyphen"/>mat. Eccles. lib. <hi>1.</hi> cap. <hi>4.</hi>
+                  </note> are more carefull of their credit, and will not affirme it. How durst <hi>Driedo</hi> repudiate the booke of <hi>Baruch,</hi> and repute it Apocryphall, after the Councill of <hi>Florence</hi> had that Councill <hi>anathematized</hi> such impudent A<g ref="char:EOLhyphen"/>gents? And further tho this Councill had made them Canonicall, yet had it beene little materiall, seeing it was but a small time before the Councill of <hi>Trent,</hi> not much aboue 100. yeares, the one being assembled in the yeare of Christ, 1436. the other in the yeare of
+<pb n="10" facs="tcp:8682:11"/> Christ, 1545. Thirdly, their Fatherhoods of <hi>Trent</hi> are not able to produce one Father that held them Cano<g ref="char:EOLhyphen"/>nicall, within the time of the Primitiue Churches chaster innocence: no not within foure hundred yeeres after Christ. Fourthly, wee can easily proue, that all the<note n="a" place="margin">Nazianz. in carm. de lib. scrip. &amp; poem. Iamb. ad Sel. ucū. Damasc l. <hi>4.</hi> de fide. c. <hi>18.</hi> Hier. prolog. Ga<g ref="char:EOLhyphen"/>leat. Aug. de ciui. l. <hi>15.</hi> c. <hi>23.</hi> &amp; cont. Adimant. c. <hi>17.</hi> &amp; de doct. Christ. l. <hi>2.</hi> c. <hi>8.</hi> Greg. in Iob. l. <hi>19</hi> c. <hi>17.</hi> &amp;c.</note> Fathers liuing in the first foure hundred yeers, re<g ref="char:EOLhyphen"/>iected them: and that their authority was doubtfull, litigious, and ambiguous, for the space of sixe hundred yeares after our Sauiour Christs sacred Incarnation. Fiftly, Many of the learned Papists themselues are on our side: As<note n="b" place="margin">Caietan. ad finem Hester.</note>
+                  <hi>Caietan,</hi>
+                  <note n="c" place="margin">Hugo Cardin. prolog. in Ioshua.</note>
+                  <hi>Hugo Cardinalis, Lyra,</hi>
+                  <note n="d" place="margin">Lyranus prolo. in Apocryph.</note>
+                  <hi>Lyra<g ref="char:EOLhyphen"/>nus,</hi>
+                  <note n="e" place="margin">Sigon. in com<g ref="char:EOLhyphen"/>ment. in Seuerū Sulpitium.</note>
+                  <hi>Sigonius, Arias Montanus,</hi> and others, who deny them to be Canonicall Scripture.</p>
+               <p>I remember indeed, that tho <hi>Athanasius</hi> would not<note n="f" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Athan. in Sy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ops.</note> Canonize these bookes, yet did he bequeath them to Nouices newly cōuerted to the Christian Faith, or such as were after to be baptized. He herein seemes to draw neere to that opinion that the<note n="g" place="margin">Caiet. in fine commen. in Hist. v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. Test.</note> Cardinall afterward learned of St.<note n="h" place="margin">H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er. in prolo. Gal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ato. Tom. <hi>3.</hi> p. <hi>6.</hi>
+                  </note>
+                  <hi>Jerome;</hi> namely, that <hi>these Bookes were onely admitted into the Canon of manners, not of Faith.</hi> For according to<note n="i" place="margin">Epiphan. lib. de mensuris &amp; ponder.</note>
+                  <hi>Epiphanius, Ʋtiles quidem &amp; commo<g ref="char:EOLhyphen"/>di sunt isti libri; These Booke are profitable and commo<g ref="char:EOLhyphen"/>dious, but not to be receiued as Canonicall,</hi> or reserued in the<note n="k" place="margin">Deut. 31.26.</note> Arke of the Testimonie.</p>
+               <p>But if these Bookes bee not Canonicall, say some of our well-respected and well affected brethren, (for so I must still style them, in respect of their conspiring with vs in all points fundamentall) Why should they bee read in the Church of <hi>England?</hi> To whom I answere according to those words in that sixt Article concluded in that Orthodoxall<note n="l" place="margin">Synod. London. An. <hi>1562.</hi> Ar. <hi>6.</hi>
+                  </note> Conuocation holden at <hi>London,</hi> in the yeare of our Lord Christ, 1562. <hi>These Bookes the Church doth reade for example of life, and instruction of manners: but yet doth it not apply them to establish any doctrine.</hi> Saint<note n="m" place="margin">Cyp. su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Ruf<g ref="char:EOLhyphen"/>fin. in expositione symboli de Cano<g ref="char:EOLhyphen"/>ne Iudaico.</note>
+                  <hi>Cyprian,</hi> or <hi>Ruf<g ref="char:EOLhyphen"/>finus</hi> rather, hauing reckoned vp the number of the
+<pb n="11" facs="tcp:8682:11"/> Bookes Canonicall, hath these words: <hi>Haec sunt quae Patres intra Canonem concluserunt, ex quibus fidei nostrae assertiones constare voluerunt. Sciendum tamen est, quòd &amp; alij libri sunt, qui non sunt Canonici, sed Ecclesiastici à maioribus appellati sunt: quae omnia legi quidem in Eccle<g ref="char:EOLhyphen"/>sijs voluerunt, non tamen proferri ad authoritatem ex his fidei confirmandam: These are the Bookes which the Fa<g ref="char:EOLhyphen"/>thers haue accounted within the Canon; by which they would confirme the affirmations and assertions of our faith: But we must also know, that there are other Bookes, which are called of the Ancients, Ecclesiasticall, all which were read in the Church of God, but out of them was neuer pro<g ref="char:EOLhyphen"/>duced any demonstration to make good our faith.</hi> Heare what Saint <hi>Jerome</hi> himselfe saith, <hi>praefat. in libros Salo<g ref="char:EOLhyphen"/>monis: Hos libros legit Ecclesia, sed eos inter Canonicas Scripturas non recepit: — Legit ad aedificationem ple<g ref="char:EOLhyphen"/>bis, non ad authoritatem Ecclesiasticorum dogmatum con<g ref="char:EOLhyphen"/>firmandam: The Church indeed doth reade these Bookes Apocryphall, but yet reputes them not to bee Canonicall: she reades them to rectifie, to edifie the people, not to testi<g ref="char:EOLhyphen"/>fie, or authoritatiuely to ratifie the principles of our Faith.</hi> See <hi>Greg. in Iob, l.</hi> 19. c. 17. <hi>Rodulph. in Leuit. lib.</hi> 14. <hi>cap.</hi> 1. <hi>P. Cluniacensis, lib.</hi> 1. <hi>Epist.</hi> 2. <hi>Origen apud Eu<g ref="char:EOLhyphen"/>sebium. lib.</hi> 6. <hi>cap.</hi> 25. <hi>Cyrillus Hierosolymitanus</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Nor doe I affirme, that these Apocryphall Bookes are neuer by the ancient Fathers styled Canonicall or Diuine: for then might you produce Saint <hi>Ierome</hi> and Saint <hi>Austin,</hi> as <hi>witnesses</hi> of my <hi>witlesnesse</hi> heerein. But let learned <hi>Whitakers</hi> tell you why: He sayes,<note place="margin">Whitaker. contr. Duraeum. &amp; con<g ref="char:EOLhyphen"/>tra Campian.</note>
+                  <hi>Ca<g ref="char:EOLhyphen"/>nonicos ab Augustino libros vocari, qui mendacijs fabulis{que} pleni non sunt:</hi> Saint <hi>Austin cals those Bookes Canonicall, which are not full fraught with lyes, and scaenicall leuity.</hi>
+               </p>
+               <p>A thing is said to bee Canonicall, either <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">Distinctio.</note> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, absolutely, or respectiuely; Absolutely that is Canonicall, which is the perfect rule of faith and manners: Respectiuely that is regular, which contay<g ref="char:EOLhyphen"/>ning
+<pb n="12" facs="tcp:8682:12"/> some sentences of authentique Writ and Histories Ecclesiastical, hath obtained to be read in holy assem<g ref="char:EOLhyphen"/>blies. As <hi>Israel</hi> was styled an holy people, not that all were sanctified in the particular, but all in the gene<g ref="char:EOLhyphen"/>rall, in opposition to the Gentiles, who were without the pale of the Church: so are these bookes called Ca<g ref="char:EOLhyphen"/>nonicall, not that all things in them are co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pletely re<g ref="char:EOLhyphen"/>gular but all more regular then the prophane writtings of the Heathenish<note n="a" place="margin">For so S. <hi>Paul</hi> styles <hi>Epime<g ref="char:EOLhyphen"/>nides,</hi> Tit. 1.12.</note> Prophets, who neuer slept vpon the top of holy <hi>Parnassus.</hi>
+               </p>
+               <p>But let such as will not heare <hi>Moses</hi> and the Pro<g ref="char:EOLhyphen"/>phets, listen a little to the admonition of <hi>Caieta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> their owne deare Romish Catholike, and a Cardinall: hee aduiseth all Students in Diuinity,<note n="b" place="margin">Caiet. in com<g ref="char:EOLhyphen"/>ment. in histor. Test. vet.</note>
+                  <hi>Ʋt quaendo ab anti<g ref="char:EOLhyphen"/>quis interdum dici Canonicos legunt, id de morum, non doctrins Canone intelligant:</hi> That they would fauora<g ref="char:EOLhyphen"/>bly interpret the Fathers, when they style these books Canonicall; and not be so farre fore-stald with preiu<g ref="char:EOLhyphen"/>dice, as to make them rules of Faith and doctrine, but of our facts and Discipline.</p>
+            </div>
+            <div n="4" type="section">
+               <head>Sect. 4.</head>
+               <argument>
+                  <p>
+                     <hi>1.</hi> The Scriptures are sufficient, tho some Bookes were lost. <hi>2.</hi> No part of the Canon perished. <hi>3.</hi> Many obiections answered.</p>
+               </argument>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Conclusion </seg>IIII</label>
+                  <hi>THough we should grant that some Bookes of Cano<g ref="char:EOLhyphen"/>nicall Scripture were lost,</hi> (which yet cannot be proued by our Aduersaries, cannot be approued by vs) <hi>yet doth the Scripture still remaine sufficient.</hi> For the<note n="a" place="margin">Concedimus nonnulla iam desiderari, quae o<g ref="char:EOLhyphen"/>lim in Canone scripturae fuerūt, sed tamen affir<g ref="char:EOLhyphen"/>mamus, illum Canonem qui re<g ref="char:EOLhyphen"/>manei, esse suffi<g ref="char:EOLhyphen"/>cientem, &amp; om<g ref="char:EOLhyphen"/>nia necessaria continere: Whita. disput<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae sacra Script.</note> necessary matter of those Bookes supposedly
+<pb n="13" facs="tcp:8682:12"/>
+                  <hi>lost,</hi> is contained in these bookes of holy Writ that are now extant.</p>
+               <p>It seemes then, will<note n="b" place="margin">Stapletoni ar<g ref="char:EOLhyphen"/>gumentum, seu potius Cani; Sta<g ref="char:EOLhyphen"/>pletonus enim Canum interpo<g ref="char:EOLhyphen"/>lauit, &amp; eius argumenta fusiùs explicauit. Stapl. lib. <hi>9.</hi> Droctrinal. princip. cap. <hi>5.</hi>
+                  </note>
+                  <hi>Stapleton</hi> say, <hi>That those books, tho full fraught with most high and heauenly matter, were needlesse and superfluous.</hi> But who not of an ouer-daring spirit, dare disgorge &amp; belch out such impious &amp; hay<g ref="char:EOLhyphen"/>nous blasphemies against the Lord? Who, (not as outragious as Apostaticall <hi>Iulian,</hi>) would say that it is superfluous to haue the same Psalme or Story recor<g ref="char:EOLhyphen"/>ded in two seuerall places of the Scripture? Is not the eighteenth Psalme in the booke of Psalmes recorded, and in the booke of <hi>Samuel,</hi> 2. <hi>Sam.</hi> 22? Is not the Hi<g ref="char:EOLhyphen"/>story of <hi>Hezekiah,</hi> recorded in the 2. <hi>King.</hi> 18.19, &amp; 20, Chapters, and in <hi>Is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 36, 37, 38, 39 Chapters?</p>
+               <p>But indeed I take it, that no part of the Canon is lost. I am not ignorant that<note n="c" place="margin">Chrysost. Hom. <hi>9.</hi> in. Mat <hi>and</hi> Hom. <hi>7.</hi> in <hi>1.</hi> Cor. Putauit Chrysostomus hāc sententiam, (Na<g ref="char:EOLhyphen"/>zarenus vocabi<g ref="char:EOLhyphen"/>tur,) nusquam inueniri in illis veteris Testa<g ref="char:EOLhyphen"/>menti libris qui nunc salui sunt. Est &amp; alia etiam sententia eius<g ref="char:EOLhyphen"/>modi de qua si<g ref="char:EOLhyphen"/>militer sensit, nempè (Ex Egypto vocaui filium meum.) Et reuera septuaginta Interpretes, quos solos Chrysosto<g ref="char:EOLhyphen"/>mus sequntus est, neutram sententiam habent: Hebraei tamen libri omnes habent; atignorabat Chrysostomus linguam Hebraicam. Jnsuper Hieronymus in lib. de optimo genere interpret. ai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vtram{que} sententiam reperiri in libris Hebraicis, priorem nempe Esaiae <hi>11.1.</hi> posteriorē, Oseae <hi>11.1.</hi>
+                  </note>
+                  <hi>Chrysostome,</hi> and other of the learned, perswade themselues that some part is perished: but to these let mee modestly oppose the <hi>Iewes,</hi> together with the most skilfull Christians in the <hi>Rabbins,</hi> who in this point are of a diuerse iudgement from Saint <hi>Chrysostome.</hi> And I am induced herein to dissent from so many of the learned Sages, as suppose that these bookes were lost in the Captiuity, by these three Reasons.</p>
+               <p>First, because S. <hi>Paul</hi> makes no question, but takes it for granted, that the whole Canon of holy Scripture was euen in his time <hi>extant, Rom.</hi> 15.4. <hi>Whatsoeuer things were written aforetime, were written for our lear<g ref="char:EOLhyphen"/>ning, that we through patience and comfort of the Scrip<g ref="char:EOLhyphen"/>tures might haue hope.</hi> Had the blessed Apostle thought that some bookes of Scripture had perished in <hi>Babylon,</hi>
+                  <pb n="14" facs="tcp:8682:13"/> doubtlesse he would haue sayd, that whatsoeuer <hi>was</hi> written, and <hi>is</hi> now extant, was written for our lear<g ref="char:EOLhyphen"/>ning and comfort: for bookes that are <hi>lost,</hi> serue nei<g ref="char:EOLhyphen"/>ther for Instruction nor Consolation.</p>
+               <p>Secondly, To hold that any bookes of Scripture should be <hi>lost,</hi> cals into question, not onely Gods euer-watching prouidence, but also his ouer-ruling power. He euer was, is, and will bee able to preserue his Wri<g ref="char:EOLhyphen"/>tings from the violence of cruell Tyrants. He can make his very aduersaries to bind them as a Crowne vnto them, and cause them to bee more carefull to <hi>preserue</hi> them, then <hi>Titus</hi> to <hi>reserue</hi> the Temple.</p>
+               <p>
+                  <note place="margin">Rom. 3.2. 1. Tim. 3.15.</note>Thirdly, It cals into question the fidelity of the Church, <hi>vnto whom were of credit committed the Oracles of God,</hi> and who is therefore styled <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Pillar and ground of Truth, because it hath the bookes of God in keeping.</p>
+               <p>There bee alleaged many particular places of Scrip<g ref="char:EOLhyphen"/>ture, to proue that some bookes of Scripture be <hi>lost;</hi> As in <hi>Numb.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obiect. </seg>1</label> 21.14. <hi>Moses</hi> maketh mention of the bookes of the <hi>Battels</hi> or <hi>Warres</hi> of the Lord, which <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>1</label> Booke seemeth to be lost. But first, you must know that a [Booke] in Scripture sometime signifieth a <hi>Re<g ref="char:EOLhyphen"/>hearsall,</hi> a <hi>Roule,</hi> or <hi>Catalogue.</hi> As the fift chapter of <hi>Genesis,</hi> contayning the Genealogie of <hi>Adam,</hi> is called <hi>the booke of the Generation of</hi> Adam. So in like manner, that <hi>Booke of the Warres,</hi> might be some short &amp; com<g ref="char:EOLhyphen"/>pendious narration of diuers exploits which fell out among the <hi>Israelites,</hi> which in <hi>Moses</hi> his time being <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>2</label> Manuall, went from hand to hand. Secondly, This Booke of the Battels of the Lord, seemeth vnto some to be the Booke of the <hi>Iudges;</hi> yea, learned <hi>Iunius</hi> referres vs to <hi>Judg.</hi>
+                  <note place="margin">Iun. in Annot.</note> 11.</p>
+               <p>
+                  <hi>Obiect.</hi> 2. In <hi>Josh.</hi> 16.13. Wee are sent to the Booke of <hi>[Jasher:] Is not this written in the Booke of</hi> Iasher? This booke is vndoubtedly lost.</p>
+               <pb n="15" facs="tcp:8682:13"/>
+               <p>
+                  <hi>Answ.</hi> Consider, I pray you, that <hi>[Jasher]</hi> is no proper, but a common Name, signifying vpright, iust,<note place="margin">Of <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> rectus fuit.</note> or righteous. As if <hi>Ioshua</hi> should haue said, Is not this rare, this so much admired miracle of the Suns standing still, recorded by him that is <hi>iust, vpright,</hi> and <hi>righteous</hi> in his reports? Is it not registred by a <hi>Nathaniel,</hi> by an <hi>Jsraelite</hi> indeed, yet one without guile, by a true-spiri<g ref="char:EOLhyphen"/>ted, by a true-spoken man? So that I can neither assent to the <hi>Chaldee</hi> text, which readeth, [In the booke of the Law:] nor yet to those other, who by <hi>Iasher</hi> vnder<g ref="char:EOLhyphen"/>stand <hi>Moses.</hi>
+               </p>
+               <p>
+                  <hi>Obiect.</hi> 3. But I heare you say, that that Booke of the <hi>Chronicles of the Kings of Jsrael</hi> is surely lost, yet<note n="a" place="margin">1. Kin. 14.19, 29. &amp; 15.7, 23, 31. &amp; 16.5, 14, 20, 27. &amp; 22.39, 46. 2. Kin. 1.18. &amp; 8.23. &amp; 10.34. &amp; 12.19. &amp; 13.8, 12. &amp; 14.15, 18, 28. &amp; 15.6, 11, 15, 21, 26, 31, 36. &amp; 16.19. &amp; 20.20, &amp;c.</note> frequently mentioned in the Scriptures.</p>
+               <p>
+                  <hi>Answ.</hi> Briefly I answer, that it was but as the Chro<g ref="char:EOLhyphen"/>nicles of <hi>England</hi> are with vs, or of <hi>France</hi> with them, euen ciuill and politike records of the euents of things in the Kingdom of <hi>Jsrael.</hi>
+                  <note n="b" place="margin">August. de ciuit. Dei, l. <hi>18.</hi> c. <hi>38.</hi>
+                  </note>
+                  <hi>Augustine</hi> auerres of all the bookes supposed to be lost, that <hi>they neuer attained to the credit of Canonization,</hi> that they neuer <hi>aspired</hi> to bee re<g ref="char:EOLhyphen"/>puted Bookes <hi>inspired</hi> by the blessed Spirit. Penned they were, sayth he, <hi>Non tam inspiratione diuinâ, quàm humanâ diligentiâ:</hi> Not by diuine inspiration, but by humane diligence and deuotion. Hence therefore hee doth well inferre, that these Volumes did not apper<g ref="char:EOLhyphen"/>taine <hi>ad authoritatem Religionis,</hi> to the prouing, to the propagating of Religion; <hi>sed ad vbertatem cognitionis,</hi> to the promoting, to the inlarging of good literature among the <hi>Iewes.</hi>
+               </p>
+               <p>
+                  <hi>Obiect.</hi> 4. It seemes that the Bookes of certaine Prophets be perished, as of <hi>Gad,</hi> and <hi>Nathan,</hi> 1. <hi>Chron.</hi> 29.29.</p>
+               <p>
+                  <hi>Answ.</hi> By the Booke of <hi>Nathan</hi> and <hi>Gad,</hi>
+                  <note place="margin">Respondeo: Eo lo<g ref="char:EOLhyphen"/>co sacram histori<g ref="char:EOLhyphen"/>am primi &amp; se<g ref="char:EOLhyphen"/>cundi Samuelis intelligi, contex<g ref="char:EOLhyphen"/>tam à tribus illis Prophetis, <hi>Sa<g ref="char:EOLhyphen"/>muele, Natha<g ref="char:EOLhyphen"/>no,</hi> &amp; <hi>Gad,</hi> quam Staplet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nus imprudens Canonicam esse negat. Certum est enim non fu<g ref="char:EOLhyphen"/>isse hes libros ab vno <hi>Samuele</hi> ambos conscrip<g ref="char:EOLhyphen"/>tos, quia <hi>Samuel</hi> mortuus est ante finem pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mi lib<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. <hi>2. Sam. 5.5. 1. Sam. 25.1.</hi>
+                  </note> is meant onely the first and second books of <hi>Samuel,</hi> which were not wholy written by <hi>Samuel,</hi> but some part thereof by <hi>Nathan</hi> and <hi>Gad.</hi> For those two bookes of <hi>Samuel</hi> con<g ref="char:EOLhyphen"/>taine
+<pb n="16" facs="tcp:8682:14"/> in them an History of 120. yeeres: The first bee<g ref="char:EOLhyphen"/>ing an History of fourescore yeares; of forty vnder <hi>Eli,</hi> 1. <hi>Sam.</hi> 4.18. and of forty vnder <hi>Samuel</hi> and <hi>Saul, Act.</hi> 13.21. The second booke is an History of forty yeares, euen from the death of <hi>Saul,</hi> to the end of <hi>Dauids</hi> Kingdome: But it is manifest, that <hi>Samuel</hi> dy<g ref="char:EOLhyphen"/>ed before <hi>Dauid</hi> came to the Crowne; whereas <hi>Na<g ref="char:EOLhyphen"/>than</hi> liued neere vnto the beginning of his raigne, and continued till the end thereof. And <hi>Gad</hi> in like man<g ref="char:EOLhyphen"/>ner liued in the latter end of King <hi>Dauids</hi> regiment ouer that Kingdome, as appeareth, 2. <hi>Sam.</hi> 12. and 2. <hi>Sam.</hi> 24.18.</p>
+               <p>
+                  <hi>Ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ect.</hi> 5. The Acts of <hi>Salomon</hi> penned by those Pro<g ref="char:EOLhyphen"/>phets <hi>Natan, Ahijah,</hi> and <hi>Iddo,</hi> are altogether peri<g ref="char:EOLhyphen"/>shed, 2. <hi>Chron.</hi> 9.29.</p>
+               <p>
+                  <hi>Answ.</hi> That is altogether false: for they are contay<g ref="char:EOLhyphen"/>ned in the History of the first Booke of <hi>Kings.</hi> So like<g ref="char:EOLhyphen"/>wise the Acts of <hi>Abiha,</hi> are written in the Story of the Prophet <hi>Iddo,</hi> 2. <hi>Chro.</hi> 13.22. but in that same history that is storied of <hi>Abiha,</hi> 1. <hi>Kin.</hi> 15 The Acts of <hi>Ieho<g ref="char:EOLhyphen"/>shaphat</hi> are written in the booke of <hi>Iehu</hi> the Prophet, 2. <hi>Chro.</hi> 20.34 but it is mentioned in the booke of the Kings of <hi>Israel.</hi> 1. <hi>King.</hi> 1.61: For it is most certaine, that the bookes of <hi>Iudges, Ruth, Samuel,</hi> and the <hi>Kings,</hi> were penned by sundry and succeeding Prophets, in sundry and succeeding ages of the Church. Hence <hi>Mat.</hi> 2.23. a testimonie is cited out of the Booke of <hi>Iudges,</hi>
+                  <note place="margin">Iudg. 13.5.</note> which is not elsewhere extant in the Scrip<g ref="char:EOLhyphen"/>tures; and yet Saint <hi>Mathew</hi> sayes, <hi>Ʋt impleretur id quod dictum est per Prophetas,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: That it might bee fulfilled which was spoken by the [Prophets] not which was spoken by the [Prophet.] So that it is manifest, that that Booke was penned not by one, but many Prophets. The like may be auouched of the fore-named Bookes. But I study breuity.</p>
+               <p>
+                  <hi>Obiect.</hi> I take it to be a truth that, <hi>the Booke of</hi> Enoch
+<pb n="17" facs="tcp:8682:14"/> is lost, of whose Prophesie <hi>Iude</hi> makes mention, <hi>Jude. v.</hi> 14.</p>
+               <p>
+                  <hi>Answ.</hi> 1. I take it to bee a doubt, whether this was a Booke or no. Indeed the <hi>Manicheis</hi> forged fa<g ref="char:EOLhyphen"/>bles more ancient then <hi>Noahs</hi> Flood, collecting them into one Volume, called the Booke of <hi>Enoch:</hi> But this booke <hi>Austin</hi> with soundnesse of iudgement doth re<g ref="char:EOLhyphen"/>iect;<note n="a" place="margin">August. de ciu. Dei. l. <hi>18.</hi> cap. <hi>38.</hi>
+                  </note>
+                  <hi>Liber iste ob nimiam antiquitatem reijcitur,</hi> saith the Father: <hi>This Booke is too old to bee true.</hi> But if it was a Booke; we commonly hold that it was not pen<g ref="char:EOLhyphen"/>ned by <hi>Enoch,</hi> but by some <hi>Iew</hi> vnder his name, out of whose writing the Apostle might haue this Prophesie. In like manner wee shall not finde the names of those Magicians that withstood <hi>Moses,</hi> in the Bookes of the old Testament, yet Saint <hi>Paul</hi> names them and sayes, that they were <hi>Iannes</hi> and <hi>Iambres,</hi> 2. <hi>Tim.</hi> 3.8. It is like, that the Apostle had their names by some Apo<g ref="char:EOLhyphen"/>cryphall writings at that time extant among the <hi>Iewes,</hi> in which he was very skilfull and expert, as appeareth, in that he dealing with the <hi>Athenians, Cretians, Stoicks,</hi> and <hi>Epicures</hi> conuinced their vicious impurities by the Testimonie of<note n="b" place="margin">
+                     <hi>1.</hi> Cor. <hi>15.33.</hi> adducit Paulus Senarium ex Menandro.</note>
+                  <hi>Menander,</hi>
+                  <note n="c" place="margin">Act. <hi>17.28.</hi> Hemisticum illud ex Phaenomen. Arati sumptū est.</note>
+                  <hi>Aratus,</hi>
+                  <note n="d" place="margin">Tit. <hi>1.12.</hi> citat Paulus Hexame<g ref="char:EOLhyphen"/>trum ex Epime<g ref="char:EOLhyphen"/>nide, vel vt alij, ex Callimacho.</note>
+                  <hi>Epimenides,</hi> or <hi>Callimachus.</hi> Nor is this any surmised surquedry of mine owne fiction, to aduance the proiect of mine o<g ref="char:EOLhyphen"/>uer-weening conceits, as being wedded to selfe-opini<g ref="char:EOLhyphen"/>on: for<note n="e" place="margin">Plin. Natur. Histor. l. <hi>30.</hi> c. <hi>1.</hi>
+                  </note>
+                  <hi>Plinie</hi> himselfe in his naturall history, nomi<g ref="char:EOLhyphen"/>nateth and numbreth this <hi>Iannes</hi> amongst the most an<g ref="char:EOLhyphen"/>cient Magicians.</p>
+               <p>
+                  <hi>Answ.</hi> 2. The Holy Spirit, who enabled <hi>Enoch</hi> to prophesie of such, might assure Saint <hi>Iude,</hi> that hee did prophesie of such, though his prophesie had beene ne<g ref="char:EOLhyphen"/>uer penned.</p>
+               <p>
+                  <hi>Obiect.</hi> 7. But that Saint <hi>Pauls Epistle to</hi> Laodicea <hi>is lost,</hi> you cannot deny, for Saint <hi>Paul</hi> commands his <hi>Colossians</hi> to reade it, <hi>Colos.</hi> 4.16. yet is it not now extant.</p>
+               <pb n="18" facs="tcp:8682:15"/>
+               <p>
+                  <hi>Answ.</hi> I deny not but that long since, such an E<g ref="char:EOLhyphen"/>pistle went from hand to hand, mentioned by<note n="a" place="margin">Epiphan. lib. contr. Marciones.</note>
+                  <hi>Epi<g ref="char:EOLhyphen"/>pha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius</hi> in his Booke against the <hi>Marcionits:</hi> But the second Councill of <hi>Nice determined</hi> to <hi>exterminate</hi> it out of the Church as spurious, as supposititious<note n="b" place="margin">Hi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. catalog. <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. in Paul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Saint <hi>Jerome</hi> also makes mention of the same Epistle, but vt<g ref="char:EOLhyphen"/>terly disclaimes the authenticke authority of the same <hi>Faber Stabulensis</hi> rangeth it among Saint <hi>Pauls</hi> Epi<g ref="char:EOLhyphen"/>stles, but is therefore reprehended by <hi>Erasmus.</hi>
+                  <note n="c" place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt. l. <hi>5.</hi> contr. Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>
+                  <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> imagineth that it is Saint <hi>Pauls</hi> Epistle to the <hi>Ephesians.</hi>
+                  <note n="d" place="margin">Theophylact. <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note>
+                  <hi>Theophylact</hi> thinkes that it is Saint <hi>Pauls</hi> former Epistle to <hi>Timotheus,</hi> which was written from <hi>Laodicea,</hi> as the post-script imports. But the truth is, that the Epistle there mentioned, was not written by Saint <hi>Paul</hi> to the <hi>Laodiceans,</hi> but by the <hi>Laodice<g ref="char:EOLhyphen"/>ans</hi> to Saint <hi>Paul,</hi> and therefore was neuer in the Canon. For the Apostle commands them not to read the Epistle written <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to the <hi>Laodiceans,</hi> but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, from the <hi>Laodiceans.</hi> Now Saint <hi>Paul</hi> commands his <hi>Colossians</hi> to read this Epistle writ<g ref="char:EOLhyphen"/>ten by the <hi>Laodiceans,</hi> because many things were con<g ref="char:EOLhyphen"/>tayned in it, which did neerely concerne them. This is at which <hi>Oecumenius</hi> learned out of <hi>Chrysostom</hi> for thus hee writeth, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hence<note n="e" place="margin">Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>harinus in <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. in Co<g ref="char:EOLhyphen"/>los. 4.10.</note>
+                  <hi>Catharinus</hi> himselfe is forced to confesse, <hi>Non hic nominari Epistolam à se scriptum ad</hi> Laodicenses, <hi>sed ex</hi> Laodicea <hi>scriptam.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <pb n="19" facs="tcp:8682:15"/>
+               <head>Sect. 5.</head>
+               <argument>
+                  <p>
+                     <hi>1.</hi> The Originall Copies only Authenticall. <hi>2.</hi> They are not corrupted. <hi>3.</hi> The vulgar version a per<g ref="char:EOLhyphen"/>uerse Translation. <hi>4.</hi> Scriptures haue been anci<g ref="char:EOLhyphen"/>ently translated. <hi>5.</hi> Our New Translation, no meane testification, of his Maiesties sincerity in Religion.</p>
+               </argument>
+               <p>
+                  <hi>THE</hi> Hebrew <hi>and</hi> Greeke <hi>Copies of holy Scrip<g ref="char:EOLhyphen"/>ture, <label type="milestone">
+                        <seg type="milestoneunit">Conclusion </seg>V</label> are to be followed about all Translations.</hi> For as Saint <hi>Austin</hi> excellently affirmes,<note n="a" place="margin">Ei linguae poti<g ref="char:EOLhyphen"/>us credatur, vnde est in aliam facta translatio. Aug. de ciuit. Dei, lib. <hi>15.</hi> c. <hi>13.</hi> Ludo<g ref="char:EOLhyphen"/>uicus Viues in hunc locum Au<g ref="char:EOLhyphen"/>gustini. Item Au<g ref="char:EOLhyphen"/>gustin. Epist. <hi>108</hi> &amp; tractat. <hi>3.</hi> in Ioan. &amp; de doct. Christ. l. <hi>2.</hi> c. <hi>11.</hi>
+                  </note>
+                  <hi>That lan<g ref="char:EOLhyphen"/>guage should rather be credited, from whence the Transla<g ref="char:EOLhyphen"/>tion was made into another tongue.</hi>
+               </p>
+               <p>As for these Hebrew and Greeke Originals, they are not at all corrupted by the <hi>Iewes,</hi> but<note n="b" place="margin">Mirabile mihi videtur, duobus annorum milli<g ref="char:EOLhyphen"/>bus, imo maiore tempore iam serè transacto, (non exquisitissimè annorum possum dicere numerum) nec verbum vnum. in lege illius esse immutatum, sed centios vnusquisquè Iudaeorum morietur, quim legi Mosaicae de <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gab. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Euseb. ex Pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o. Iudaeo.</note> still remaine most pure fountaines, though some of the Popish Do<g ref="char:EOLhyphen"/>ctors, (louing to fish in troubled waters,) would seeme to maintaine, that the spightfull <hi>Iewes</hi> did purposely corrupt not a few places. Of this impudent opinion are <hi>Gregorius de Ʋalentia,</hi>
+                  <note n="c" place="margin">Iacob. Christop. in praefa. ad Psal.</note>
+                  <hi>Iacobus Christopolitanus,</hi> and<note n="d" place="margin">Canus l. <hi>2.</hi> loc. Com.</note>
+                  <hi>Canus.</hi> To whom I will oppose<note n="e" place="margin">Molina. in <hi>1.</hi> Thom. q <hi>27.</hi> art. <hi>1.</hi> D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sput. <hi>3.</hi>
+                  </note>
+                  <hi>Molina,</hi>
+                  <note n="f" place="margin">Andrad. defens. Triden. l. <hi>4.</hi>
+                  </note>
+                  <hi>An<g ref="char:EOLhyphen"/>dradius,</hi>
+                  <note n="g" place="margin">Sixtus Senensis, B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. lib. <hi>8.</hi>
+                  </note>
+                  <hi>Sixtus Senensis,</hi> and<note n="h" place="margin">Alphon. Mendoz. contro. Theol. q. <hi>7.</hi>
+                  </note>
+                  <hi>Alphonsus Mendoz.</hi> all of them Papists, yet none of them denying, the Ori<g ref="char:EOLhyphen"/>ginall Copies to be pure from all corruption.</p>
+               <p>Against those former I will maintaine, that the He<g ref="char:EOLhyphen"/>brew bookes were not corrupted of the <hi>Jewes,</hi> by these two Reasons.</p>
+               <pb n="20" facs="tcp:8682:16"/>
+               <p>
+                  <hi>Reason</hi> 1. Before the comming of the <hi>Messiah,</hi> they were not at all corrupted by them, for Christ, the irrefragable Doctor of Truth, who reproues the false &amp; erronious Glosses of the <hi>Scribes</hi> and <hi>Pharises,</hi> would neuer haue beene silent in this crime so odious, so notorious.</p>
+               <p>
+                  <hi>Reason</hi> 2. The <hi>Jewes</hi> did not falsifie them after the comming of Christ: for who can, or dare imagine, that our blessed Sauiour, his sacred Apostles, and Euange<g ref="char:EOLhyphen"/>lists, should so cite Testimonies of the Scriptures, as the stiffe-necked <hi>Iewes</hi> would in ensuing times depraue them?</p>
+               <p>But are you onely a stranger in the Now-Roman Church, and haue not knowne the things which are come to passe therein, in these latter yeares? of their Canonizing of the vulgar Latine Translation,<note place="margin">Concil. Trident. Sess. <hi>4.</hi> Decr. <hi>2.</hi>
+                  </note> against the Hebrew and Greeke Originals, euen now after the space of 1500 yeares at the least? Can you bee igno<g ref="char:EOLhyphen"/>rant how that High-Priest,<note place="margin">F. Simen. Bill. complu. in praefa.</note>
+                  <hi>F Simen.</hi> Bishop of <hi>Toledo</hi> in <hi>Spaine,</hi> deliuered them to bee condemned, and han<g ref="char:EOLhyphen"/>ged on each side that vulgar version as the two theeues on each side of Christ? When as many of the learned Papists themselues pittifully complaine vpon the vul<g ref="char:EOLhyphen"/>gar Translation, disguised with the Maske of Catholi<g ref="char:EOLhyphen"/>cisme. For auoyding prolixity, I will onely instance one for many.<note place="margin">Lindanus, de opt. gent. interp. lib. <hi>3.</hi> cap. <hi>1.2, 4, 6.</hi>
+                  </note>
+                  <hi>Lindanus,</hi> one of their owne Bishops, one that came out of their owne bowels, otherwise an aduersary to the Hebrew Originall, (as appeares to the perpetuall and indeleble destaine of his credit, in that <hi>John Isaac</hi> hath defended it against him,<note place="margin">Ioan. Isaac, de<g ref="char:EOLhyphen"/>fens. verit. Hebr. aduers. Lindan. <hi>both Papists.</hi>
+                  </note>) euen hee hath lift vp the heele against the vulgar Latine. Yet it is not vnknowne, that <hi>Guido Fabricius,</hi> whereas right and reason would, he should rather haue gone a<g ref="char:EOLhyphen"/>bout to sute the Latine Translation to the patterne of the Originall Texts, hee contrariwise did his best ende<g ref="char:EOLhyphen"/>uor, in the <hi>Complutensian</hi> edition of the Bible Royall, to
+<pb n="21" facs="tcp:8682:16"/> make the foot of the Text, serue the lacerated and ma<g ref="char:EOLhyphen"/>cerated Shooe of the Latine Translation, moued by the authority of <hi>Iohannes Picus</hi> of <hi>Mirandula,</hi>
+                  <note place="margin">Notat. in Gen.</note> as <hi>Lucas Brugensis</hi> witnesseth.</p>
+               <p>You are not to expect from me any examples of the manifold Barbarismes,<note place="margin">Vide Whitak. de editione Scriptu<g ref="char:EOLhyphen"/>rarum Authenti<g ref="char:EOLhyphen"/>ca. cap. <hi>10.</hi>
+                  </note> the more then manifest Falsifi<g ref="char:EOLhyphen"/>cations, Additions, Detractions, Deprauations of that vulgar Latin. For truely, I might as easily vndertake to measure the back-side of Hell; nay, if Arithmeticke it selfe, which is the Art of numbring, were set to take a muster of them single by themselues, it would want Characters to decipher them. Others herein haue suc<g ref="char:EOLhyphen"/>cessefully laboured, and yee may fruitfully enter into those their labours. Onely let mee tell you, that none of the ancient Fathers before <hi>Gregory</hi> the first, were slauishly addicted to the vulgar Edition of the Bible. Not<note n="a" place="margin">Tertull. contr. Marcionem.</note>
+                  <hi>Tertullian,</hi> not<note n="b" place="margin">Cypr. ad Qui<g ref="char:EOLhyphen"/>rinum.</note>
+                  <hi>Cyprian,</hi> not<note n="c" place="margin">Arnobius com. in Psa. <hi>67.</hi> et <hi>106</hi>
+                  </note>
+                  <hi>Arnobius,</hi> not <note n="d" place="margin">Hilar. in Mat.</note>
+                  <hi>Hilarie,</hi> not<note n="e" place="margin">Ambros. Com. in Luc. <hi>8.</hi>
+                  </note> Saint <hi>Ambrose,</hi> not Saint<note n="f" place="margin">Aug. tract in Ioan. <hi>44. 61.</hi> in <hi>1.</hi> Epist. Ioan. tract. <hi>10.</hi> tract. <hi>6.</hi> tract. <hi>7.</hi>
+                  </note>
+                  <hi>Austin,</hi> not<note n="g" place="margin">Leo Fest. om. Sanct.</note>
+                  <hi>Leo,</hi> not<note n="h" place="margin">Optat. in Mat. <hi>16.</hi> Luc. <hi>18.</hi>
+                  </note>
+                  <hi>Optatus,</hi> not<note n="i" place="margin">Fulgentius ad Thrasimund. l. <hi>1.</hi> cap. <hi>5.</hi>
+                  </note>
+                  <hi>Fulgentius,</hi> not<note n="k" place="margin">Primasius in Galat. <hi>3.</hi>
+                  </note>
+                  <hi>Pri<g ref="char:EOLhyphen"/>masius,</hi> not<note n="l" place="margin">Prosp. de pro<g ref="char:EOLhyphen"/>miss. part. <hi>3.</hi>
+                  </note>
+                  <hi>Prosper.</hi> Yet neuerthelesse, with the Popes claw-backe Parasites, Hebrew, Greeke, and all interpre<g ref="char:EOLhyphen"/>tations of the more pure complexion, must bee holden for corrupt, rather then his<note n="m" place="margin">Pope Sixtus vnder his Bull according to the Tridenrin Councill.</note> Holinesse touched with any misprision, or suspicion of ouersight, in authorizing this nouell Edition of the Bible for authenticall. Thus they shamefully belie, adulterate, and, as I may say, de<g ref="char:EOLhyphen"/>flowre, not onely the Virgin-writings of particular Doctors, and generall Councils, as appeares by their<note n="n" place="margin">Inder Expurg. Belgic. in Regul. Concil. Trident.</note>
+                  <hi>Jndex Expurgatorius:</hi> but, (to their euerlasting ob<g ref="char:EOLhyphen"/>loquie, neuer to be buried in obliuion; to the perpetual blot and blemish of their cause) the thrice-sacred booke of God itselfe; to make those celestiall pages seeme vn<g ref="char:EOLhyphen"/>to their blear-eyed Proselytes, that they stand for them. Whereas shining in their natiue beauty, the false colors which they haue cast vpon them, wiped off, they are rather swords to wound, then shields to protect the
+<pb n="22" facs="tcp:8682:17"/> heads of Doctrine defended by them. They are rather Canon-shot to batter, then Bulwarkes to better &amp; for<g ref="char:EOLhyphen"/>tifie their tottering wals of superstition. They are ra<g ref="char:EOLhyphen"/>ther Mines to vndermine &amp; throw downe, then pillars to support their ruinous Tower of <hi>Babylon.</hi> Away ther<g ref="char:EOLhyphen"/>fore with this Transgression, rather then Translation of the Bible, as one speakes of Pope<note n="a" place="margin">Clement the eight.</note>
+                  <hi>Clements</hi> corruption, of <hi>Sixtus Quintus</hi> his Correction of the vulgar version. A Translation it is, fitter to be throwne into the bench-hole, or as the Spiders web to bee swept downe, and carried out, then hung vp in the Church, for any other either Armour or Ornament.</p>
+               <p>
+                  <hi>Obiect.</hi> You seeme againe to draw the vaile of <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> ouer his face, for is it not lawfull that Translations should be prouided, as the vessels wherein Gods Di<g ref="char:EOLhyphen"/>uine and infallible Word may be preserued, and pre<g ref="char:EOLhyphen"/>sented to his people?</p>
+               <p>
+                  <hi>Answ.</hi> It is not onely lawfull, but likewise very <note n="b" place="margin">Deut. 31.11, 12. &amp; 7.19, 20. and 6.6, 7, 8, 9, Ier. 36.6, 7.</note> necessary, that the holy Scriptures should bee transla<g ref="char:EOLhyphen"/>ted. For why should Christ command vs to<note n="c" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Io.</hi> 5.39</note>
+                  <hi>Search</hi> them, if they might not bee translated for our vnder<g ref="char:EOLhyphen"/>standing? They are giuen vs to be our<note n="d" place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>phes.</hi> 6.17. But the Pa<g ref="char:EOLhyphen"/>pists take away frō the Chri<g ref="char:EOLhyphen"/>stian Souldier his Sword <hi>Scr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>m in est,</hi> and in stead thereof, put into his hand a wooddē dag<g ref="char:EOLhyphen"/>ger, <hi>Tradict. est.</hi>
+                  </note> armour against the infernall and infestuous enemies of our saluation; and should they bee like<note n="e" place="margin">1. Sam. 21.9.</note>
+                  <hi>Goliaths</hi> sword, wrapt in a cloth behind the Ephod? What meant golden-mou<g ref="char:EOLhyphen"/>thed<note n="f" place="margin">Chrys. hom. <hi>29.</hi> in Gen. h. <hi>2.</hi> &amp; <hi>5</hi> in Mat. ho. <hi>9.</hi> ad Colos. &amp; ho. <hi>3.</hi> de Lazaro. vult po<g ref="char:EOLhyphen"/>pulum domi antà examinare locum illum qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m ipse in Eccle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. tracta<g ref="char:EOLhyphen"/>turus esset.</note>
+                  <hi>Chrysostom,</hi> so seriously, so sincerely, so frequent<g ref="char:EOLhyphen"/>ly, to call vpon his people to get them <hi>Bibles,</hi> to reade them, to examine that they heare by them, if Transla<g ref="char:EOLhyphen"/>tions were not permitted to them? What meant St.<note n="g" place="margin">Ex quo factū est, vt Scriptura diuina, ab vna lingua prosecta, per varias lin<g ref="char:EOLhyphen"/>guas interpre<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m, &amp;c. Aug. de doctr. Christ. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>2.</hi> c. <hi>5.</hi>
+                  </note>
+                  <hi>Austin</hi> to say, <hi>That the Scripture is spred farre and wide, by meanes of the diuers Languages, whereinto it is translated,</hi> if it was not thus to be made knowne to all Nations for their eternall good and saluation?</p>
+               <p>
+                  <hi>Obiect.</hi> I will not beleeue, that you can make it cleare out of ancient Records, that the Scriptures haue beene anciently translated. This sauours too strongly
+<pb n="23" facs="tcp:8682:17"/> of hereticall prauity.</p>
+               <p>
+                  <hi>Answ.</hi> If you thinke me ouer-lauishly to ouer-lash in this assertion, I will report me to Saint <hi>Chrysostome</hi> and <hi>Theodoret,</hi> both which liued more then 1200. yeares since. The<note n="a" place="margin">Chrys. hom. <hi>1.</hi> in Ioh. scribit, Syros Indos, Persas, E<g ref="char:EOLhyphen"/>gypti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>; Ethiopa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, &amp; alias innume<g ref="char:EOLhyphen"/>ras gentes, dog<g ref="char:EOLhyphen"/>mata diuina in suam linguam transtulisse, at{que} ita homines bar<g ref="char:EOLhyphen"/>baros philosopha<g ref="char:EOLhyphen"/>ri didicisse.</note> former of these in his first Homilie vpon <hi>Iohn,</hi> mentioneth innumerable Translations, as the <hi>Persian,</hi> the <hi>Syrian,</hi> the <hi>Jndian,</hi> the <hi>Aethiopian,</hi> the <hi>Egyptian,</hi> with very many others. The<note n="b" place="margin">Theodo. de cu<g ref="char:EOLhyphen"/>ran. Grae, affect. l. <hi>5.</hi> Hebraici ve<g ref="char:EOLhyphen"/>rò libri, &amp;c: se<g ref="char:EOLhyphen"/>mel{que} vt dicam, in linguas omnes quibus ad hunc diem nationes v<g ref="char:EOLhyphen"/>tuntur.</note> other of them auoucheth very generally, That the <hi>Bible</hi> was <hi>turned</hi> into all Languages vsed in the world, <hi>Armenian, Sur<g ref="char:EOLhyphen"/>matian, Scythian,</hi> and into all the other. Did not<note n="c" place="margin">Iosephus.</note>
+                  <hi>Pto<g ref="char:EOLhyphen"/>lomaeus Philadelphus,</hi> that Noble <hi>Egyptian</hi> King, who builded that illustrious Library at <hi>Alexandria,</hi> cause the Law to be translated into Greeke, by those seuenty two Interpreters, three hundred yeeres before Christs salutiferous incarnation? He thus speakes in his Let<g ref="char:EOLhyphen"/>ters to <hi>Eleazer,</hi> of the Hebrew Bible vntranslated,<note n="d" place="margin">Epiph. lib. de mens. &amp; pond.</note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>What profit redounds vnto vs by a treasure concea<g ref="char:EOLhyphen"/>led, or a fountaine sealed vp?</hi>
+                  <note n="e" place="margin">Socrat. histor. Eccles. l. <hi>4.</hi> c. <hi>33.</hi> vt Barbari disce<g ref="char:EOLhyphen"/>rent ac intellige<g ref="char:EOLhyphen"/>rent <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+                  <hi>Socrates</hi> reports, that <hi>Vlphi<g ref="char:EOLhyphen"/>las,</hi> a certain Bishop of the <hi>Goths, translated</hi> the diuine Scriptures into the <hi>Language</hi> of the <hi>Goths,</hi> not long af<g ref="char:EOLhyphen"/>ter their conuersion to Christianity vnder <hi>Valens.</hi> St. <hi>Chrysostome translated</hi> the Scriptures for the <hi>Armenians,</hi> saith<note n="f" place="margin">Sixtus Senens. Biblioth. lib. <hi>8.</hi>
+                  </note>
+                  <hi>Sixtus Senensis.</hi>
+                  <note n="g" place="margin">Hosius lib. de sacro vernaculè legendo.</note>
+                  <hi>Dalmatica lingua sacros libros Hieronymum vertisse constat,</hi> saith <hi>Hosius: It is manifest that</hi> S. Hierome <hi>translated the Scriptures into the</hi> Sclauo<g ref="char:EOLhyphen"/>nian <hi>Language.</hi> Where note from the foule mouth of <hi>Hosius,</hi> otherwise breathing nothing but vnlimited blasphemies against the blessed Bible, that <hi>Jerom trans<g ref="char:EOLhyphen"/>ferd the Scriptures into his owne natiue Dialect;</hi> for <hi>Dal<g ref="char:EOLhyphen"/>matia,</hi> otherwise called <hi>Jlliria</hi> or <hi>Sclauonia,</hi> was Saint <hi>Ieromes</hi> Natiue Countrey.</p>
+               <p>The Rhemists themselues, those Arch-Panders of the Whore of <hi>Babylon,</hi> are forced to confesse, that more then three hundred yeares agoe, the <hi>Jtalians,</hi> who liue
+<pb n="24" facs="tcp:8682:18"/> vnder the Popes owne nose, had the Bible <hi>translated;</hi> and the <hi>French-men</hi> aboue two hundred yeares since. To come neerer home, here in <hi>England</hi> many yeeres a<g ref="char:EOLhyphen"/>go<note n="a" place="margin">Lambert. Mart. apud Fox. Martyrolog. p. <hi>1116.</hi>
+                  </note> King <hi>Alured,</hi> the fourth Sonne of <hi>Ethelwholphus,</hi> translated the Psalter, a Copie whereof was found in <hi>Crowland Abbey,</hi> called Saint <hi>Guthlakes</hi> Psalter. Vene<g ref="char:EOLhyphen"/>rable <hi>Bede,</hi> our learned Countrey-man, who himselfe<note n="b" place="margin">Fox. Mart. p. <hi>1115.</hi> Col. <hi>2.</hi>
+                  </note> translated Saint <hi>Iohns</hi> Gospell,<note n="c" place="margin">Beda Eccles. hist. gent. Angl. lib. <hi>1.</hi> cap. <hi>1.</hi>
+                  </note> sheweth that this English Nation hath anciently had the holy Scriptures in all the Languages thereof. As we went before ma<g ref="char:EOLhyphen"/>ny Countries in outward blessings, so wee see that the Lord would not suffer vs to come behinde them in in<g ref="char:EOLhyphen"/>ward benefits; nor shall our <hi>Goshen</hi> euer bee eclipsed with the<note n="d" place="margin">Chimaerijs ob<g ref="char:EOLhyphen"/>tecti tenebris. Pruden.</note>
+                  <hi>Chimerian</hi> shades of Popish pitchy darke<g ref="char:EOLhyphen"/>nesse, maugre the meagre shapes of <hi>Chimerian</hi> iealousie, so long as that late Translation of the Bible, out of the Originall Languages, into the English tongue, by hs Maiesties speciall charge and <hi>charges,</hi> shall remaine a<g ref="char:EOLhyphen"/>mongst vs, as that Starre that conducted the wise-men to Christ, the wisdome of the Father. Of this giue me leaue to say with those most Reuerend &amp; very worthy Translators thereof,<note place="margin">Epist. Ded.</note>
+                  <hi>That there are infinite arguments of his Maiesties right Christian and religious affection to<g ref="char:EOLhyphen"/>ward the Church of God; but none is more forcible to de<g ref="char:EOLhyphen"/>clare it to others, then the vehement and perpetuated desire of the accomplishing and publishing of that worke.</hi> Of which I may speake more truely then <hi>Posseuin</hi> of his vulgar,<note place="margin">Posseuinus, Bibl. select. l. <hi>2.</hi> cap. <hi>10.</hi>
+                  </note>
+                  <hi>It standeth as the hauen, whereunto we must betake our selues, from the waues of so many different Translati<g ref="char:EOLhyphen"/>ons.</hi> A glasse it is to the blind eyes of our English Ro<g ref="char:EOLhyphen"/>manists, if there be any glimpse of light vnput out in them. For as for their vulgar Latine, verily his eyes be very dim, that cannot see; his nose ful-stuft, that cannot smell; and his fingers notoriously numbe, that cannot feele &amp; grope those forgeries, those falsifications farsed in it, they being so ocular, so vnsauory, so grosse &amp; pal<g ref="char:EOLhyphen"/>pable.</p>
+            </div>
+            <div n="6" type="sect">
+               <pb n="25" facs="tcp:8682:18"/>
+               <head>Sect. 6.</head>
+               <argument>
+                  <p>
+                     <hi>1.</hi> The Laitie must reade the Scriptures. <hi>2.</hi> The Pope prohibits them. <hi>3.</hi> He is the Beast butchering the two Witnesses. <hi>4.</hi> Women permitted the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+               </argument>
+               <p>
+                  <hi>LAy people must reade the Scriptures.</hi> For this was <label type="milestone">
+                     <seg type="milestoneunit">Conclusion </seg>VI</label> Christs precept, <hi>Search the Scriptures, Iohn</hi> 5.39. and the Christians practice, <hi>They searched them daily, Acts</hi> 17.11. Descend wee to the Fathers of the Church and demand we of them, whe<g ref="char:EOLhyphen"/>ther they will be pleased to suffer their<note n="a" place="margin">Tit. 1.4.</note> naturall sonnes according to the common faith, to reade the Word translated into their mothers Tongue. And heare first how S<seg rend="sup">t</seg>. <hi>Chrysostom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> aduiseth his people<note n="b" place="margin">Diuinae Scriptu<g ref="char:EOLunhyphen"/>ra lectionem dili<g ref="char:EOLhyphen"/>gneter auscultetu; Domi Diuina Biblia in manus, sumite. Chrysost. hom. <hi>29.</hi> in Cap. <hi>9.</hi> Genes.</note> diligently to attend the reading of the diuine Scripture; yea, at home also to take the holy Bible into their hands: was it he<g ref="char:EOLhyphen"/>resie in his dayes to haue a Bible in their houses, when they were allowed to haue them in their hands? For breuities sake I purposely omit many pregnant proofes out of this ancient Father, as that Hom. 2. in <hi>Math.</hi> that, Hom. 3. <hi>de Lazar.</hi> that, <hi>in Prooem. Epist. ad Rom.</hi> &amp; that, Hom. 9. <hi>in Coloss.</hi> where hee exhorts his Hearers to get them Bibles, or at the least, the New Testament.</p>
+               <p>
+                  <hi>Theodoret</hi> reports with exceeding ioyfulnes, that in his time the Scriptures were knowne and vnderstood, not onely by such as were Teachers in the Church, but euen of all kind of Artificers: yea, saith hee,<note n="c" place="margin">Fossores{que} adeo ac babul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nias, Palaril{que} cō<g ref="char:EOLhyphen"/>sitores, de Diui<g ref="char:EOLhyphen"/>na Trinitate, re<g ref="char:EOLhyphen"/>rum{que} omnium creatione discer<g ref="char:EOLhyphen"/>tantes. Theod. De Curand. Graecor. affect. lib. <hi>5</hi>
+                  </note>
+                  <hi>You may finde among vs, Ditchers, and Neat-heards, and Wood-setters, disputing of the Diuine Trinitie, &amp; of the Creati<g ref="char:EOLhyphen"/>on of all things.</hi> Were this holy Father liuing, he would giue the checke and the lye to that dissolute son, who
+<pb n="26" facs="tcp:8682:19"/> audaciously affirmes without all front,<note place="margin">Thyrrae. de Daenio cap. <hi>21. ex Whit</hi>
+                  </note>
+                  <hi>That hee knew certainely certaine men to be possessed of a Diuell, because being but Husband-men, they were able to discourse of the Diuine Scriptures.</hi> And what would he say, do you sup<g ref="char:EOLhyphen"/>pose, should he see the Pope with his <hi>Jgnis fatuus,</hi> bur<g ref="char:EOLhyphen"/>ning such Bookes of Scripture as the people vnderstand in their vulgar tongue? would he not impearle his cheeks with a continuall sourse of distilling teares, to see this Successor of <hi>Simon Magus,</hi> excommunicating the Lai<g ref="char:EOLhyphen"/>tie,<note place="margin">Lib. <hi>5.</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <hi>6.</hi> Ia<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>b. De Graff. de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is. l. <hi>4.</hi> c. <hi>23.</hi> Na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Han<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. cap <hi>11.</hi> Origen. hom. <hi>12.</hi> in Exod.</note> be they neuer so learned, that dispute in a point of Faith? Surely his griefe, like to a swelling Tide, would ouer-flowe the Bankes; neither would his mone ad<g ref="char:EOLhyphen"/>mit of any method.</p>
+               <p>
+                  <hi>Origen</hi> in his 12. Homilie vpon <hi>Exodus,</hi> bitterly in<g ref="char:EOLhyphen"/>ueighs euen against the brutish vulgar for that at home they did not meditate vpon the <hi>Scriptures</hi> And in his second Homilie vpon <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, hee heartily wisheth, that not only the Reuerend Ministers,<note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 paragraph">
+                        <desc>〈1 paragraph〉</desc>
+                     </gap>.</note> &amp; Religious Monks would <hi>search the Scriptures</hi> but that all the Laitie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the highest to the lowest, would frequently bee conuersant in the written Word of God.</p>
+               <p>Not to affect prolixitie in the accumulating of anci<g ref="char:EOLhyphen"/>ent Testimonies, let me leade you by the hand, to some remarkable examples of the renowned Worthies, flou<g ref="char:EOLhyphen"/>rishing as prime flowres in the Primitiue Church; who being Lampes to the seuerall ages wherein they liued, may yeeld likewise some <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight and lustre to those, who doe still continue and remaine in darknes. A la<g ref="char:EOLhyphen"/>bour not <hi>vn<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>son<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> if at least any intend to reforme their obstinacie: nor is it <hi>vnseasonable,</hi> seeing it may serue to confirme our present opinion.</p>
+               <p>The Lord by <hi>one</hi> Starre directed the <hi>three</hi> Wise-men from the East, comming to worship that Starre of <hi>Ia<g ref="char:EOLhyphen"/>cob;</hi> but he hath directed euery <hi>one</hi> of vs to the reading of the Scriptures by <hi>three</hi> Starres, all of them now fixt by his glorious goodnes in the Firmament of Heauen.</p>
+               <p n="1">
+                  <pb n="27" facs="tcp:8682:19"/>1. Happie <hi>Timothie,</hi> euen herein happie, <hi>That hee had knowne the holy Scriptures of a Child.</hi> 2. <hi>Tim.</hi> 3.15.</p>
+               <p n="2">2.<note n="a" place="margin">In diuinis Scrip<g ref="char:EOLhyphen"/>tis adhuc puer ex ercitatus. — Ac quotidiè certum quid, quod ed cis<g ref="char:EOLhyphen"/>set ac recitaret ex<g ref="char:EOLhyphen"/>egerat. Euseb. Hist. Eccles. l. <hi>6.</hi> cap. <hi>3.</hi>
+                  </note>
+                  <hi>Eusebius</hi> sheweth vs, that <hi>Origen</hi> was from his Cradle taught the Scriptures, and caused dayly to com<g ref="char:EOLhyphen"/>mit some part of them to memorie, which he also faith<g ref="char:EOLhyphen"/>fully recited. So carefull was his Father <hi>Leonides,</hi> that blessed Matyr, seasonably thus to season that<note n="b" place="margin">I hold him no vassall of Satan, tho the Synagogue of Rome hath not sainted him. He was holy, but because not wholly theirs, hee is not in their Ca<g ref="char:EOLhyphen"/>lender.</note> holy Vessell of the Sanctuarie.</p>
+               <p n="3">3. S<seg rend="sup">t</seg>.<note n="c" place="margin">Basil. Epist. <hi>75.</hi> ad Neocaes.</note>
+                  <hi>Basill</hi> was euen nurst vp in this <hi>sacred</hi> Lite<g ref="char:EOLhyphen"/>rature, &amp; educated in the <hi>secret</hi> Mysteries of Religion.<note n="d" place="margin">Basil. Epist. <hi>74.</hi>
+                  </note> Did not <hi>Macrina</hi> his Nurse teach him the <hi>Scriptures</hi> of a childe?</p>
+               <p>To these might I adde that Cloud of Witnesses, as<g ref="char:EOLunhyphen"/>sembled in the first Councell of Nice, consisting of<note n="e" place="margin">Fuit autem numerus Episco<g ref="char:EOLhyphen"/>porum Congrega<g ref="char:EOLhyphen"/>torum, decem et <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cto supra erecen<g ref="char:EOLhyphen"/>tos. Theodoret. Histor. Eccles. l. <hi>1.</hi> c. <hi>7.</hi> Cornelius Agrip.</note> three hundred and eighteene Bishops, all of them de<g ref="char:EOLhyphen"/>creeing, <hi>That no Christian should be without a Bible.</hi> These siluer Trūpets of the Tabernacle, calling mē to the study of the <hi>Scriptures,</hi> were not linkt in the league of opini<g ref="char:EOLhyphen"/>on with those churlish Cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res, and currish Miscreants sent out from <hi>Cerberus;</hi>
+                  <note n="f" place="margin">Huius farinae fuit Peresius, de Tradit.</note> who impiously, and no lesse impudently auerre, <hi>That they thinke verily it was the Diuels inuention to permit the People to reade the Bible.</hi> Wicked miscreants, belcht out from the botomlesse Abysse of hell, when were you of that black princes pri<g ref="char:EOLhyphen"/>uie-councell, that thus you haue learn'd to vent your Gall, and steepe your tongues in Venome? Now then, good Christians tell me, all passion and partialitie laid aside; all siding, all faction and affection put apart, whether this be not to cry alarum, and bid battell and defiance against the Truth it selfe? Whether this bee not to distresse, and as much as in them lyeth, to extir<g ref="char:EOLhyphen"/>pate and exterminate the Gospell from among the peo<g ref="char:EOLhyphen"/>ple? In a word, whether this be not to <hi>exploit</hi> all the Feates, to play all the Pranks and Casts of that macth<g ref="char:EOLhyphen"/>lesse Villaine <hi>Machiauill,</hi> and all to <hi>explode</hi> the peoples
+<pb n="28" facs="tcp:8682:20"/> plodding on the Scriptures, as scurralously they tearme it? were it not for defiling my Pen, and blotting my Paper; were it not for offending your Christian eares, I would searce and search this their dangerous and di<g ref="char:EOLhyphen"/>uellish Doctrine; yea. I would sift and boult this their brain-sicke dotage to the very branne. Must it not needs be a holy Procession, where such as these carrie the Crosse? A heauenly Hierarchie, where such Regents, so bankerupt of the true Feare of God, so destitute of common honestie among men, raigne and rule the roast; raile and reuile the <hi>Host</hi> of the God of <hi>Hosts,</hi> for beeing expert at their spirituall weapon?<note n="(a)" place="margin">Gen. 49.6.</note> Into their secrets let not my soule come; my glory, bee not thou ioyned with their assemblies.</p>
+               <p>
+                  <hi>Obiect.</hi> This Position doth paue a way to that dange<g ref="char:EOLhyphen"/>rous opinion of the Caluinists, promiscuously permit<g ref="char:EOLhyphen"/>ting their people to reade the Scripture. What.<note n="b" place="margin">Mart. Peresi<g ref="char:EOLhyphen"/>us, de Tradit. part. <hi>2.</hi> assert. <hi>3.</hi>
+                  </note> shall no bounds bee set to popular, rude, and carnall men <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <note n="c" place="margin">Hosius de sacr. vernas. legend. pag. <hi>162.</hi> Alfon<g ref="char:EOLhyphen"/>sus Castrens. de punit. haret. l. <hi>3.</hi> cap. <hi>6.</hi> ait Scrip<g ref="char:EOLhyphen"/>turarum transla<g ref="char:EOLhyphen"/>tionem in li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> vulgarem est<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> causam omnium. haeres. Belarm. de Ver<g ref="char:EOLhyphen"/>bo Dei, l. <hi>2.</hi> c. <hi>15.</hi> Rhem. prafac.</note> This prophanation of the Scriptures, rather then translation, is a Principall cause to increase heresie, and precipitate the headlong furie of all vulgar mindes. And therefore neuer sufficiently to be admired, neuer sufficiently to be cōmended, was that vertuous &amp; tru<g ref="char:EOLhyphen"/>ly Catholicke mis-trust of Pope <hi>Clement</hi> the eighth,<note n="*" place="margin">Whose name did rot before his Corps.</note> whose memorie for this shal euer liue in the minds of men. Hee vniuersally prohibiting the Reading of the Scriptures,<note n="*" place="margin">Against the Or<g ref="char:EOLhyphen"/>der of Pius <hi>5.</hi> &amp; the Councell of Trent. Jndex lib. prohib. regul. <hi>4.</hi>
+                  </note> tooke away the power of granting any such Licences, as might herein preiudice the sacred sele<g ref="char:EOLhyphen"/>cted Sea of Rome.</p>
+               <p>
+                  <hi>Answ.</hi> It is true indeed that the Church of Rome, to her eternall obloquie, hath long forbidden the Laity to reade the Scriptures; and (which might most in<g ref="char:EOLhyphen"/>crease in vs a mazing wonder) hath labored to restraine and represse with fire and sword, all such vse of them as might detect and bring to light, the monstrous &amp; mis<g ref="char:EOLhyphen"/>shapen births of her the notorious<note n="*" place="margin">For is not she a notori<g ref="char:EOLhyphen"/>ous Strumpet, who puts out the Candle that discouers her? Reuel. 17.1.</note> Whore of <hi>Baby<g ref="char:EOLhyphen"/>lon.</hi>
+                  <pb n="29" facs="tcp:8682:20"/> They would haue their Laity sleepe in the land of obliuion, not <hi>Epimenides</hi> his slumber, who is fabled to haue tooke a nap of seuenty fiue yeares long; but <hi>En<g ref="char:EOLhyphen"/>dimions</hi> sleepe, who neuer wakened. Wo bee to those drowsie sluggards, <hi>Qui clauidunt fenestram contra solem, vt quietius dorm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ant in tenebris:</hi> who shut the window, least the radiant tresses of the Sun should trouble them in their sleepe. They haue taken away the key of knowledge, they entred not in themselues,<note place="margin">Luk. 11.52.</note> and them that would come in, they forbade. As for your neuer-sufficiently to bee dispraised, your neuer-sufficiently to be condemned Caytiffe, Pope <hi>Clement</hi> the eighth who liued to see his good name buried before him, and fol<g ref="char:EOLhyphen"/>lowed it to the funerall, of him I will say no more, but compare him to his patterne <hi>Antiochus,</hi> 1. <hi>Maccab.</hi> 1.59, 60. desiring the patient and impartiall Reader, to carry the comparison along with him to the place, and see how they sympathize together: for all the wa<g ref="char:EOLhyphen"/>ter in <hi>Tyber</hi> will not serue, to wash him from the at<g ref="char:EOLhyphen"/>taint of the same suspicion. But to leaue this high Pin<g ref="char:EOLhyphen"/>nacle of that vnhallowed Temple, let vs returne to the whole Romish Synagogue. Did not the Blacke Prince of this world, Hels malignant Monarch, maruailously vaile &amp; blind their eyes, they could not choose but see, into what an endlesse, and easelesse Labarynth, they leade the Laitie. They cannot bee ignorant of that which <note n="a" place="margin">I omit Christs alleadging of Scripture, in those conflicts &amp; bickerings with the diuel, Mat. 4. Luk. 4.</note> Christ sayes to the <hi>Sadduces, Mat.</hi> 22.19. <hi>That they therefore erre, because they know not the Scrip<g ref="char:EOLhyphen"/>tures.</hi> They cannot bee <hi>ignorant,</hi> that<note n="b" place="margin">Luk. 23.34.</note> Christ makes <hi>ignorance</hi> the cause of that so horrible a sinne, whereby the <hi>Iewes</hi> laid violent hands vpon him their Sauiour. They cannot be ignorant, that the same our blessed Sa<g ref="char:EOLhyphen"/>uiour,<note n="b" place="margin">Luk. 23.34.</note> makes ignorance the Originall of that so horri<g ref="char:EOLhyphen"/>ble neglect in the<note n="c" place="margin">Ioh. 4.10.</note> woman of <hi>Samaria.</hi> All this they cannot but know, and yet doe they labour to put out their <hi>Samsons</hi> eyes, that so they might cause them to
+<pb n="30" facs="tcp:8682:21"/> grinde in the Mill of their<note n="a" place="margin">Coeca obedien<g ref="char:EOLhyphen"/>tia.</note> Mole-like obedience. Yea, Pope after Popes, spring-headed <hi>Hydra's</hi> that they are, prouing their Succession to bee that Beast in the <hi>Reue<g ref="char:EOLhyphen"/>lation,</hi> like fierce Lyons, chaf't to seeke reuenge, chase the poore people into the Caues of obscurity; and with <hi>Joshua,</hi>
+                  <note n="b" place="margin">Iosh. 10.18.</note> hauing commanded to roule great stones vpon the mouthes of the Caues, make euen Kings themselues to lurke like wilde-beasts, in the loathsome dens of ig<g ref="char:EOLhyphen"/>norance. This their succession thē is that <hi>Beast</hi> which slew those two<note n="*" place="margin">
+                     <hi>Reu.</hi> 11.7.</note>
+                  <hi>Witnesses, Re.</hi> 11.7. by which two wit<g ref="char:EOLhyphen"/>nesses, we not vnfitly vnderstand the two Testaments, the Old and the New.<note n="c" place="margin">Reu. 11.3.</note> Gods giuing power vnto thē, is the authorizing of them. Their prophecying cloathed in sackcloth, implyes that they are not in their due ap<g ref="char:EOLhyphen"/>parell, but obscured, and disguised, as is the greatest Prince or Potentate clad in sacke-clo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Now they are obscured two waies. 1. by their false &amp; glozing interpre<g ref="char:EOLhyphen"/>tations, and coloured Glosses. Such as were the Glosse of <hi>Orleans, Hugo de</hi> St <hi>Charo,</hi> and <hi>Petre Comestor:</hi> by which they were as a clasped book, euen to the simpler sort of their Cleargie. And indeed, had it not beene for these and such like, they had not had one Commentarie vpon the Bible, for the space of diuers hundred yeares. For, their Seraphicall, Angelicall, and Cherubinicall Doctors; their Sententiaries, their Summists, their Quodlibetaries, those school'd <hi>Athenians</hi> the School<g ref="char:EOLhyphen"/>men, setting aside the Scriptures, busied themselues in their Speculations, in their Questions vpon <hi>Peter Lom<g ref="char:EOLhyphen"/>bard,</hi> once Bishop of <hi>Paris,</hi> the ancient Master of the Sentences; and vpon <hi>Thomas Aquinas,</hi> their later Master, yet greatly in request. Secondly, these two Testaments or witnesses are obstinately obscured, in that they are hidden from the vulgar, permitted them onely in the vulgar Latine.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Reuel.</hi> 11.7.</note>Now when it is sayd, <hi>That when they haue finished their Testimonie, the Beast shall make Warre against
+<pb n="31" facs="tcp:8682:21"/> them, and shall ouercome and kill them,</hi> is meant, that when they be completely written-out, and their Testi<g ref="char:EOLhyphen"/>monie authorized; after the primitiue Church hath receiued, admitted, and confirmed them in the first<note n="*" place="margin">An. Dom. <hi>322.</hi>
+                  </note>
+                  <hi>Nicene</hi> Councill, euen from that time shall the Anti<g ref="char:EOLhyphen"/>christian Monarch striue against them, labouring to de<g ref="char:EOLhyphen"/>priue them of their liuely sense and meaning. I might here shew you, further and ampler Analogie, betwixt these two <hi>Witnesses</hi> and the two <hi>Testaments.</hi> First, you may see an agreement in their number: They are <hi>two</hi> witnesses: so there bee <hi>two</hi> Testaments. Secondly, in their Name; For in the Language wherein they haue beene vsed so much these 1200. yeares, the Testa<g ref="char:EOLhyphen"/>ments be called <hi>Testamenta,</hi> of the word <hi>Testis,</hi> which signifies a <hi>Witnesse,</hi> as being <hi>Witnesses</hi> of Gods Will: According to that of our Sauiour, <hi>Ioh.</hi> 5.39. <hi>Search the Scriptures,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>for they are they which testifie, or witnesse of me.</hi>
+               </p>
+               <p>
+                  <hi>Obiect.</hi> Yet in the grosse and scope of mine opinion, it is vnfit that<note n="a" place="margin">Profanatio <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Scripturae <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s quàm Translatio, non solum zo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arios, ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulos, pistores, sartores, futores; verumetiam zonarias, sartrices, sutrices facit no<g ref="char:EOLhyphen"/>bis Apostolas, Prophetissas, Doctrices. Hosius in lib. de sacro vernaculè legēdo.</note> women, at the least, should minde the Scriptures. For haue they not huswiferie at home? haue they not a calling to tend vpon?</p>
+               <p>
+                  <hi>Answ.</hi> If you will not fortifie your eares against the truth, I will in a word shew you the <hi>Papall</hi> and <hi>palpa<g ref="char:EOLhyphen"/>ble</hi> grossenesse of Cardinall <hi>Hosius</hi> his blasphemie, for that is it which so secretly you insinuate.<note n="b" place="margin">Hosius de ex<g ref="char:EOLhyphen"/>presso verbo Dei.</note> He irreue<g ref="char:EOLhyphen"/>rently, irreligiously, and sacrilegeously affirmeth, <hi>That a Distaffe is fitter for a woman then the Bible.</hi>
+               </p>
+               <p n="1">1. Discreet <hi>Bathsheba,</hi> the mother of <hi>Salomon,</hi> descri<g ref="char:EOLhyphen"/>bing a vertuous woman, saith, <hi>That shee openeth her mouth with wisedome, and the law of Grace is in her tongue, Prou.</hi> 31.26. Shee sayth moreouer, <hi>That her Candle is not put out by night, Prou.</hi> 31.18. This light <hi>Clemens Alexandrinus</hi> vnderstandeth to be the heart, calling, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the meditations of the Saints, vpon Gods sacred Oracles, Candles that neuer goe out.</hi>
+               </p>
+               <p n="2">
+                  <pb n="32" facs="tcp:8682:22"/>
+                  <note place="margin">Nazian. Orat. Funeb. in Gorg.</note>2. <hi>Nazianzen</hi> giues this remarkable report of his Sister <hi>Gorgonia,</hi> namely, <hi>That she was well learned.</hi>
+               </p>
+               <p n="3">3. Saint <hi>Hierome,</hi> a Father, and that not one of an inferiour Orbe, the Papists themselues suppose him to march in equipage of honour with the best, yet could not he indure, that the graue Matrons of his time, should liue vnder the Tyranny of <hi>Egyptian</hi> ignorance.</p>
+               <p n="1">1. How would hee encourage his<note n="b" place="margin">Hieron. epist. ad Eustochium, hortatur cam ad a<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>uam lectio<g ref="char:EOLhyphen"/>nem Scripturaris. Sic &amp; Celantia, quae f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t Mater<g ref="char:EOLhyphen"/>sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as, horta<g ref="char:EOLhyphen"/>tur vt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raecipua illius <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, Diuinam legem cogn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>scere.</note>
+                  <hi>Eustochium,</hi> his <hi>Saluina?</hi> Doth hee not ascertaine his now-celestiall <hi>Celantia,</hi> that the best course of her life, was to be con<g ref="char:EOLhyphen"/>tinually conuersant in the holy Scriptures? yet was she a mother of a family.<note n="c" place="margin">Hieron. epist. ad Celantiam.</note>
+                  <hi>Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ergo Diuinae Scripturae sem<g ref="char:EOLhyphen"/>per in manibus tuis, &amp; iugiter mente voluantur,</hi> sayth he: <hi>Let therefore the Bookes of holy Writ bee euer in thy hand, euer in thy mind.</hi>
+               </p>
+               <p n="2">2 Why doth<note n="d" place="margin">Hieron. in E<g ref="char:EOLhyphen"/>pitaph. Paulae.</note> he so commend his <hi>Paula,</hi> that religious Gentle-woman, for setting her Maydes to <hi>Learne</hi> the Scriptures, but to leaue her as a memoriall &amp; example, for persons of her ranke to imitate?</p>
+               <p>If any reply with <hi>Bellarmine,</hi> That not onely <hi>Paula</hi> the Mother, but <hi>Eustochium</hi> also the Daughter, had tongues enow to vnderstand the Latine, Greeke, and Hebrew Edition of the Bible: I must tell him out of the same<note n="e" place="margin">Non licebat cuiquam sorerum ignorare Psal<g ref="char:EOLhyphen"/>mos, &amp; non quo<g ref="char:EOLhyphen"/>tidie aliquid de Scripturis sanctis discere: Hier. in Epitaph. Paulae.</note> Saint <hi>Ierome,</hi> That not onely <hi>Eustochium,</hi> but her other sisters also, who were not so well lettered, were commanded by their Mother <hi>Paula,</hi> dayly to commit to memorie, some portion of the holy Scrip<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="3">3. See how he would sigh, and sorrow for to see, that but euen a Childe, a Damosell of seuen yeares old, should thus sit amongst these <hi>Cymmerian</hi> shades of su<g ref="char:EOLhyphen"/>perstitious ignorance:<note n="f" place="margin">Hier. ad Gau<g ref="char:EOLhyphen"/>dentium.</note>
+                  <hi>Cùm autem virgi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ulam ru<g ref="char:EOLhyphen"/>dem &amp; edentulam septimus aetatis annus exceperit, &amp; caepe<g ref="char:EOLhyphen"/>rit erubescere, —discat memoriter Psalterium; &amp; vs{que} ad annos pubertatis, libros Salomonis, Euangelia, Apostolos, &amp; Prophetas, sui cordis thesaurum faciat: When the Girle
+<pb n="33" facs="tcp:8682:22"/> shall be seuen yeares old, beginning to dye her cheekes with a modest blush, then let her learne the Psalmes by heart: And till she be marriageable, let her make the Bookes of</hi> Sa<g ref="char:EOLhyphen"/>lomon, <hi>the Gospels, Apostles and Prophets, the very trea<g ref="char:EOLhyphen"/>sure of her heart.</hi>
+               </p>
+               <p>Nor doe I peremptorily, or pertinaciously auouch, that this malignant contumelie was neuer heard of till <hi>Hosius,</hi> who was but a man of yesterday, for hee was president in the late Couenticle of <hi>Trent.</hi> No, for it was as<note n="a" place="margin">Cyril. Alex. lib. <hi>6.</hi> cont. Iulian.</note>
+                  <hi>Cyrill</hi> reports, the reproach that <hi>Iulian</hi> layd vpon the Christians, <hi>That their women were meddlers with the Scriptures.</hi> Out of this impure puddle, did <hi>Hosius</hi> and his adherents, pumpe-vp this so sowre and vnsauory liquour.</p>
+            </div>
+            <div n="7" type="section">
+               <head>Sect. 7.</head>
+               <argument>
+                  <p>
+                     <hi>1.</hi> The Scriptures not obscure in themselues. <hi>2.</hi> To vs they are by accident. <hi>3.</hi> They are difficult, but not all, not to all, not alwayes. <hi>4.</hi> The conclusion with exhortation.</p>
+               </argument>
+               <p>
+                  <hi>THE Holy Scriptures are not ambiguous, and per<g ref="char:EOLhyphen"/>plexe in themselues, but of themselues perspicuous,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Conclusion </seg>VII</label>
+                  <hi>and sufficiently plaine, to explaine, and determine all points of Faith.</hi> The Iesuites, senting and censuring this conclusion, as ouer-rankly smelling of Luthera<g ref="char:EOLhyphen"/>nisme; and withall seeing it to giue a flat Bastonado, a deadly blow, to that common heresie of the now-Ro<g ref="char:EOLhyphen"/>man Church, making the matter of the Scriptures <hi>ob<g ref="char:EOLhyphen"/>scuritie,</hi> so dangerous, thus argue against it by way of Appeale.</p>
+               <p>
+                  <hi>Obiect.</hi> You cannot, without a manifest impeach<g ref="char:EOLhyphen"/>ment
+<pb n="34" facs="tcp:8682:23"/> of your iudgement, but confesse, that the Scrip<g ref="char:EOLhyphen"/>ture is a very Chaos of obsuritie, so shadowed with the clouds of ambiguity, that they surpasse the shallow ca<g ref="char:EOLhyphen"/>pacitie of the vulgar people.</p>
+               <p>
+                  <hi>Answ.</hi> I can not but confesse, that the pernicious vncatholike<note n="(a)" place="margin">Hosius lib. <hi>3.</hi> de authoritate Eccles. &amp; Script. contr. Brentiu. Eckius Enchirid. in loc. <hi>4.</hi> censores Colonienses contr. Monhemium. Andrad. lib. <hi>2.</hi> Orthod. explicat. Lindanus pa<g ref="char:EOLhyphen"/>nopl. lib. <hi>3</hi> cap <hi>6.</hi> Stapleton. lib. <hi>10.</hi> c. <hi>2.</hi> Rhemenses, Annotat. in <hi>2.</hi> Pet. <hi>3.16.</hi>
+                  </note> Catholickes of our dayes, hauing <hi>dipt</hi> their Pharisaicall and parasiticall tongues in <hi>Lethes</hi> in<g ref="char:EOLhyphen"/>fernall Lake, and <hi>tipt</hi> their pennes with the balefull and banefull poyson of the<note n="*" place="margin">A Serpent killing with his breath, &amp; fight. <hi>Plin. Nat. hist. lib.</hi> 8. <hi>c.</hi> 21.</note> Basiliske, haue most lamen<g ref="char:EOLhyphen"/>tably, and miserably captiued &amp; enthral'd their iudge<g ref="char:EOLhyphen"/>ment, no lesse virulently then violently censuring the Scripture as though it were altogether clouded and shrouded in obscuritie; as tho a perpetuall veile was euer layd ouer it. Whereas when wee vnderstand it not, the veile is not drawn ouer it but ouer our hearts, <note n="b" place="margin">2. <hi>Cor.</hi> 3.15. <hi>Ex hoc Testimo<g ref="char:EOLhyphen"/>nio Pauli, Luthe<g ref="char:EOLhyphen"/>rus rectissimè coll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>git, obscuritatem scripturae prouimi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, non ex rerum ipsarum d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fficultate, sed ex nostra caecitate. Vide Hieron. Comment. in Ezech.</hi> 44. See for the Scriptures perspicuitie, these ensuing Scriptures. Deut. 30.11. Psal. 19.9. Prouerb. 6 22. Mat. 5.14. 2. Pet. 1.19. 2. Cor. 4.3 Esa 29.11. with Reu 5. Ier. 31.34. Luk. 8.10. Iohn 10.27. 1. Cor. 2.16.</note> 2. <hi>Cor.</hi> 3.15. It being as <hi>Dauid</hi> affirmes,<note n="c" place="margin">Psal. 119.105.</note> a <hi>Lan<g ref="char:EOLhyphen"/>terne</hi> to our feet; not a darke <hi>Lanterne,</hi> but a <hi>light vnto our paths, Psal.</hi> 119.105. which is not to bee vnder<g ref="char:EOLhyphen"/>stood onely of the preceps contained in the Scriptures, but of the whole Word of God, as S. <hi>Austin</hi> doth ex<g ref="char:EOLhyphen"/>pound it:<note n="d" place="margin">Augustin. Concion. <hi>23.</hi> in Psal. <hi>119.</hi> Vide Ambros. Serm. <hi>14.</hi> in Psal. <hi>119.</hi>
+                  </note>
+                  <hi>Quod ait lucerna pedibus verbum tuum, verbum est quod Scripturis omnibus sanctis continetur.</hi> The whole Word being as<note n="e" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, 2. Pet. 1.19.</note> St. <hi>Peter</hi> auerres, <hi>a light shining in a darke place,</hi> 2. <hi>Pet.</hi> 1.19. It being as <hi>Clemens Alexandrinus</hi> auoucheth,<note n="f" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Clemens Alexander. Pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rep<g ref="char:EOLhyphen"/>tic <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. p. <hi>25.</hi> Nullus est in verbo Cimmerius.</note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>A common light
+<pb n="35" facs="tcp:8682:23"/> that shineth to all.</hi> For as saith S. <hi>Austin,</hi>
+                  <note n="a" place="margin">Augustinus tract. <hi>35.</hi> in Ioan.</note>
+                  <hi>The Scriptures are lighted vp to be our candle in this world, that we walke not in darkenesse.</hi> Yea, <hi>the Prophets and Apostles,</hi> saith St.<note n="b" place="margin">Chrysost. Hom. <hi>3.</hi> de Lazaro.</note>
+                  <hi>Chrysostom, made their writings euident to all men, so that euery man, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, of himselfe by reading them, might learne the things therein spoken.</hi> The<note n="c" place="margin">Qui Apoca<g ref="char:EOLhyphen"/>lypsin Ioannis à pascha vs{que} ad Pentecosten, Mis<g ref="char:EOLhyphen"/>sarum tempore in Ecclesia non prae<g ref="char:EOLhyphen"/>dicauerit, excom<g ref="char:EOLhyphen"/>municationis sen<g ref="char:EOLhyphen"/>tentiam habebit. Concil. Toletan. <hi>4.</hi> cap. <hi>16.</hi>
+                  </note>
+                  <hi>Toletan</hi> Councill deemed not the Scriptures to be so difficult, when they straitly enioyned the reading &amp; preaching of the <hi>Apocalyps</hi> to the <hi>People:</hi> which booke is so inuolued in obscurity, that euen at this day some reformed Churches forbeare the very reading of the same.</p>
+               <p>
+                  <hi>Obiect.</hi> Why are you thus execrably tart and spleenfull against the poore Catholickes, especially seeing many amongst you, euen those that are more then most reli<g ref="char:EOLhyphen"/>gious, haue beene altogether deterd from imploying their time in reading the Scripture, by reason of the Scriptures obscurity?</p>
+               <p>
+                  <hi>Answ.</hi> True it is, (thrice-miserable the times in which we may say it is true) that many, by reason of the <hi>difficulty</hi> of the holy Scriptures, doe much neglect them, and (can I speake without brackish and brinie teares?) doe altogether giue ouer the study of them, crying with <hi>Salomons</hi> sluggard,<note place="margin">Prou. 26.13.</note>
+                  <hi>There is a Lyon in the way, there is a Lyon in the way.</hi> But the Lord hath re<g ref="char:EOLhyphen"/>serued many millions, that thus dare not steere away their <hi>Alcinoan</hi> dayes in this restlesse sea of wretched negligence. Tho with<note n="*" place="margin">King of Spaine and Naples.</note>
+                  <hi>Alphonsus</hi> they are not so happy as to reade the Bible foureteene times ouer. Or with that worthy Emperour<note n="*" place="margin">
+                     <hi>Theodosius</hi> 2.</note>
+                  <hi>Theodosius,</hi> so wor<g ref="char:EOLhyphen"/>thy, as to write ouer the New Testament with their owne hands: yet with <hi>Cicilia,</hi> they carry alwayes the Gospell of Christ in their breasts, and thinke that day lost, wherein some time is not taken vp in study of the <hi>Scriptures.</hi> They are imbarqued for no short voyage, they know they must passe the <hi>Magellan</hi> straits. They
+<pb n="36" facs="tcp:8682:24"/> are not ignorant, that the Lord will not be their <hi>Pilot,</hi> except the Word bee their <hi>Compasse;</hi> and therefore <hi>saile</hi> they in this <hi>Trades-increase,</hi> as <hi>Merchants-Royall</hi> for this gold of Ophir. Neither doth the difficulty of holy Writ so daunt and dismay them, that they should altogether slacke or abate their paines, but rather doth it whet their diligence, and enflame their desire to be<g ref="char:EOLhyphen"/>come men expert, and of ripe age, in these secret and hidden mystiries.</p>
+               <p>
+                  <hi>Obiect.</hi> But to omit the popularity of this opinion, many of your Ministers, and they of good note, which are counted to be pillars, as St.<note n="(a)" place="margin">Gal. 2.9.</note>
+                  <hi>Paul</hi> speakes of <hi>Iames, John</hi> and <hi>Cephas,</hi> euen<note n="b" place="margin">Multa Scrip<g ref="char:EOLhyphen"/>turae loca obscura esse fatetur, mul<g ref="char:EOLhyphen"/>ta esse verborum &amp; sententiarum inuol<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ra: De Luthero, Whita<g ref="char:EOLhyphen"/>keri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. de S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. perspicu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ate, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> they are heralds in blazing, and displaying the obscurity of the Scripture. Yea, eight of the Ancient Fathers are <hi>cited</hi> by<note n="c" place="margin">Bellarmi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e verbo Dei, lib. <hi>3.</hi> cap. <hi>1.</hi>
+                  </note> Cardinall <hi>Bellarmine,</hi> and excited to shew the duskish obscuritie of the Scriptures; Namely,<note n="d" place="margin">Haec Bellarmi<g ref="char:EOLhyphen"/>ne te<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> o<g ref="char:EOLhyphen"/>mitti poss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt, quia nec inf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in<g ref="char:EOLhyphen"/>gunt, nec atti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t causam nostram; pugnat enim sine aduersario.</note>
+                  <hi>Jrenaeus,</hi> lib. 2. cont. hae<g ref="char:EOLhyphen"/>res. cap. 47. <hi>Origen,</hi> hom. 12. in <hi>Exod. Ruffinus,</hi> lib. 11. cap. 9. <hi>Chrys.</hi> hom. 40. in <hi>Ioan.</hi> 5. <hi>Ambros.</hi> E<g ref="char:EOLhyphen"/>pist. 44. <hi>ad Constantium Episcopum. Hieronym.</hi> Epist. <hi>ad Paulinum. &amp; pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fat. Comment. suorum in Epist. ad E<g ref="char:EOLhyphen"/>ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s. &amp; Epist. ad Alga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iam quaest</hi> 8. <hi>Augustin.</hi> de doct. Christ. l. 2. c. 6. &amp; Confes. l. 12. c. 14 &amp; Epist. 3. ad <hi>Ʋolusian.</hi> &amp; Epist. 119. cap. 21. <hi>Gregor.</hi> hom. 6. in <hi>Ezechiel.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They are so: yet if the eye of your reason be not dimm'd with the mist of passion, you may easily perceiue, that this doth not impaire their reputation, or lay their honour in the dust. For do but a litttle lend me your listening and attentiue eares, and I will plain<g ref="char:EOLhyphen"/>ly manifest vnto you the truth, touching the Scriptures perspicuitie and obscurity.</p>
+               <p>First, The Scriptures are difficult, but not <hi>all.</hi>
+               </p>
+               <p>Secondly, The Scriptures are difficult, but not <hi>to</hi> all.</p>
+               <p>Thirdly, The Scriptures are difficult, but not <hi>al<g ref="char:EOLhyphen"/>waies.</hi>
+               </p>
+               <pb n="37" facs="tcp:8682:24"/>
+               <p>Giue me leaue to runne ouer these points, and rather to point at them, then in any point to dwel vpon them.</p>
+               <p n="1">1. The Scriptures are<note n="a" place="margin">Quare Deus voluit multa esse in Scripturis ob<g ref="char:EOLhyphen"/>scura, consule Clem. Alexandri<g ref="char:EOLhyphen"/>num, Stromat. lib. <hi>6.</hi> Augustin. de doctr. Christ. lib. <hi>2.</hi> Cap. <hi>6.</hi> Greg. hom. <hi>6.</hi> in Ezechiel.</note>
+                  <hi>difficult,</hi> but so, that <hi>euerie</hi> part of them is not inuolued in obscuritie; For, in the doctrinall Foundation of <hi>Faith</hi> and <hi>Manners,</hi> they are most <hi>plaine</hi> and easie.<note n="b" place="margin">
+                     <p>Augustin. E<g ref="char:EOLhyphen"/>pist. <hi>3.</hi> ad Volu<g ref="char:EOLhyphen"/>sian.</p>
+                     <p>Vide Augustin. De Doct. Christ. lib. <hi>2.</hi> cap <hi>6.</hi> &amp; <hi>9</hi> Hieron. de Eu<g ref="char:EOLhyphen"/>nucho, Epist. ad Paulin. Aug. de peccat. merit. &amp; remiss. l. <hi>2.</hi> c. <hi>36.</hi> De vtilit. credēd. cap. <hi>6.</hi> cont. Iuliā. Pelag. lib. <hi>5.</hi> c. <hi>1.</hi> Chrys. hom. <hi>3.</hi> in <hi>2.</hi> Thes. Prolog. in Epist. ad Rom. Iustin. Martyr, Dialog. cum Try<g ref="char:EOLhyphen"/>phone Iudaeo.</p>
+                  </note> S<seg rend="sup">t</seg>. <hi>Austin</hi> speakes like an he<g ref="char:EOLhyphen"/>reticall <hi>Caluinist,</hi> (as the Papists account Heresie:) <hi>Non tanta in Scripturis difficultate peruenitur ad ea, quae necessaria sunt saluti: Not with so great difficultie in the Scriptures, doe we attaine to those things which are neces<g ref="char:EOLhyphen"/>sarie to Saluation.</hi> And againe, <hi>Jn ijs quae a pertè in Scrip<g ref="char:EOLhyphen"/>turis posita sunt, inueniuntur ea omnia, quae fidem continent, mores{que} viuendi: The plaine and easie places of the Scrip<g ref="char:EOLhyphen"/>ture, containe all things necessary vnto Faith and Man<g ref="char:EOLhyphen"/>ners.</hi>
+                  <note n="c" place="margin">Augustin. in Psal. <hi>8.</hi>
+                  </note>
+                  <hi>Inclinauit Scripturas Deus, ad Jnfantium &amp; La<g ref="char:EOLhyphen"/>ctentium capacitatem,</hi> saith the same S<seg rend="sup">t</seg>. <hi>Austin: GOD hath fitted the Scriptures, to the capacitie of the meanest.</hi> I omit<note n="d" place="margin">Irenaeus, lib. <hi>3.</hi> c. <hi>15.</hi> Hieronym. in Psal. <hi>86.</hi> Am<g ref="char:EOLhyphen"/>bros. Epist. <hi>7.</hi> in initio Epistolae. Fulgentius, Serm. de Confessoribus. Bernard. in serm. de verbis Libri Sapientiae, Iustum deduxit Dominus per viae rectas, &amp;c.</note> many pregnant Witnesses to proue the <hi>Scrip<g ref="char:EOLhyphen"/>tures perspicuitie.</hi> Yea, what doth<note n="e" place="margin">Bellarmin. de Verbo Dei, Lib. <hi>1.</hi> Cap. <hi>2.</hi>
+                  </note>
+                  <hi>Bellarmins Scriptu<g ref="char:EOLhyphen"/>ris nihill notius</hi> meane, but that nothing is more <hi>mani<g ref="char:EOLhyphen"/>fest</hi> then the <hi>Scriptures?</hi> Behold and wonder, <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> is become an Hetero-doxe Lutheran! To him I might adde<note n="f" place="margin">Andradius, Lib. <hi>2.</hi> Orthod. explicat.</note>
+                  <hi>Andradius,</hi>
+                  <note n="g" place="margin">Catharinus Comment. in <hi>2.</hi> Tim. <hi>3.</hi>
+                  </note>
+                  <hi>Catharinus,</hi> &amp;<note n="h" place="margin">Sixtus Se<g ref="char:EOLhyphen"/>nensis, Biblioth. Lib. <hi>6.</hi> Annotat. <hi>151.</hi> vt citatur à Whitaker. de Script. perspicuit. Cap. <hi>4.</hi>
+                  </note>
+                  <hi>Sixtus Senen<g ref="char:EOLhyphen"/>sis;</hi> but I hasten to our second Assertion.</p>
+               <p n="2">2. The Scriptures bee <hi>obscure,</hi> not to <hi>all,</hi> but<note n="i" place="margin">2. Cor. 4.3.</note> to them that perish, and are naturall, meere<note n="k" place="margin">1. Cor. 2.14.</note> Animals. Excellently<note n="l" place="margin">Epiphan. in Anchor.</note>
+                  <hi>Epiphanius:</hi> If a man bee not taught of God, all things to him are crooked, which yet are streight to such as haue attained, obtained vnderstan<g ref="char:EOLhyphen"/>ding.</p>
+               <p n="3">
+                  <pb n="38" facs="tcp:8682:25"/>3. The Scriptures be darke and difficult, but not <hi>al<g ref="char:EOLhyphen"/>waies.</hi> For the Lord doth more and more <hi>dispell, di<g ref="char:EOLhyphen"/>sperse</hi> &amp; scatter the darkenes of the mindes of his Elect, by his holy Spirit.</p>
+               <p>Thus you see that the Scripture hath great difficul<g ref="char:EOLhyphen"/>tie ioyned with facilitie; fitly therefore resembled by S<seg rend="sup">t</seg>.<note n="a" place="margin">Greg. in Epist. ad Lean<g ref="char:EOLhyphen"/>drum, quae habe<g ref="char:EOLhyphen"/>tur in fine operū Gregorij. Mare est Scrip<g ref="char:EOLhyphen"/>tura diuina, ha<g ref="char:EOLhyphen"/>bens in se sensus profundos— Diuersa sunt Scripturarū flu<g ref="char:EOLhyphen"/>enta. Habes quod primum bibas, habes quod secū<g ref="char:EOLhyphen"/>dum, habes quod postremum. Am<g ref="char:EOLhyphen"/>bros. Epist. <hi>44.</hi> ad Constantium Episcopum.</note>
+                  <hi>Gregorie</hi> to the Maine Ocean, in which the Lambe may wade, and the Elephant may swim. For the Wri<g ref="char:EOLhyphen"/>ters of holy Scriptures, are in some things like Angels <hi>descending</hi> to the <hi>simplicitie</hi> of the meanest; and in o<g ref="char:EOLhyphen"/>ther things as Angels <hi>transcending</hi> the <hi>sublimitie</hi> of the Learned'st.</p>
+               <p>Oh then,<note n="b" place="margin">Reu. 2.7.</note> let him that hath an eare, heare what the Spirit saith vnto the Churches, <hi>Joh.</hi> 5.39. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>Search the Scriptures.</hi> There be three things which moue attention: The <hi>Author,</hi> if hee bee <hi>iudicious;</hi> the <hi>Matter,</hi> if it be <hi>mellifluous;</hi> the <hi>Manner,</hi> if it be <hi>com<g ref="char:EOLhyphen"/>pendious.</hi> All these three Graces ioyntly meete in this passage of Scripture, and all in so effectuall a manner, that any one of them, (I can truely say,) may challenge; all of them, (I dare boldly say,) doe deserue, an atten<g ref="char:EOLhyphen"/>tiue reuerence, a reuerent attention, and a religious execution. For although Truth nakedly and simply set foorth, doth of it selfe deserue allowance, and bind de<g ref="char:EOLhyphen"/>pencies vnto it; yet, is it of most force to inuade mens iudgements, and winne their liking approbation, when it comes armed in the <hi>Authoritie</hi> of so authenticall an <hi>Author,</hi> as is the <hi>Author</hi> and <hi>Finisher</hi> of our <hi>Faith,</hi> CHRIST IESVS himselfe.</p>
+               <p>God had witnessed of Christ in Iordan, <hi>Mat.</hi> 3.17. <hi>This is my beloued Sonne.</hi> God witnessed of Christ in the Mount at his Transfiguration, <hi>Mat.</hi> 17.5. <hi>This is my beloued Sonne, heare him.</hi> But the Iewes heard not this Voice in the Mount, and neglected that voice in Iordā, therefore here Christ sends them to the Scriptures, <hi>Search the Scriptures, for they witnesse of mee.</hi>
+               </p>
+               <pb n="39" facs="tcp:8682:25"/>
+               <p>They witnesse of mee by <hi>Prophets,</hi> they witnesse of me by <hi>Sacraments,</hi> they witnesse of mee by <hi>Ceremonies,</hi> therefore <hi>Search them.</hi> My Father <hi>sent me,</hi>
+                  <note place="margin">Verse 37.</note> by my In<g ref="char:EOLhyphen"/>carnation. My Father <hi>witnesseth of me,</hi> by internall in<g ref="char:EOLhyphen"/>spiration: but <hi>ye haue not heard his voyce</hi> by mentall re<g ref="char:EOLhyphen"/>uelation, <hi>nor haue yee seene his shape</hi> by any manifest re<g ref="char:EOLhyphen"/>presentation; therefore <hi>Search the Scriptures.</hi>
+               </p>
+               <p>Nor doth Christ here send them <hi>ad lectionem simpli<g ref="char:EOLhyphen"/>cem, sed ad scrutationem acquisitam,</hi> saith St. <hi>Chrysostom.</hi>
+                  <note place="margin">Chrysost hom. <hi>40.</hi>
+                  </note> For nothing superfluous or superuacaneous is layd vp in the Arke of the Scriptures. Not Inscriptions, saith <hi>Chrysostome;</hi> not iterations of Scripture, say Wee; not repletiue particles, are to bee passed ouer without a re<g ref="char:EOLhyphen"/>gistring eye. <hi>Jf thou se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kest wisedome as siluer, &amp; searchest for her as for treasures, then shalt thou find the knowledge of GOD, Proerb.</hi> 2.<note place="margin">
+                     <hi>Pro.</hi> 2.4.5.</note> It is with Diuine knowledge as with Gold, which lyeth not vpon the <hi>face</hi> and superfi<g ref="char:EOLhyphen"/>cies of the earth, but is <hi>embosomed</hi> in her inward bowels. The richer any minerall is, the more industrious hath nature beene to lay it vp in the deepest vaines: and the higher any mysterie is, not the nigher, but the more re<g ref="char:EOLhyphen"/>mote is it From our shallow apprehensions, therefore [<hi>Search the Scriptures.</hi>
+               </p>
+               <p>There is great difference betwixt Diuine and hu<g ref="char:EOLhyphen"/>mane Writtings: Of the first the more we drinke, the more we may; the deeper the sweeter. But of the se<g ref="char:EOLhyphen"/>cond, to sip it is sufficient: <hi>Gustata magis quàm potata inuant:</hi> Wee may sooner <hi>surfet,</hi> then <hi>satiate</hi> ourselues of these.</p>
+               <p>In this age of vanity, wherein prophane <hi>Pamphlets</hi> are as dainty nouelties, as <hi>Apes</hi> and <hi>Peacockes</hi> in the dayes of <hi>Salomon,</hi> what can better beseeme Christians, then to read the <hi>Scriptures?</hi> Euill bookes, like insidia<g ref="char:EOLhyphen"/>ting <hi>Iael,</hi> allure vs with the blandishments of their stile, (blancht-ouer with the title of eloquence,) till they haue destroyed vs, till there remaines not one sparke of true
+<pb n="40" facs="tcp:8682:26"/> godlinesse vnslaine within vs. They are <hi>Iudas</hi>-like <hi>Ioabs</hi> they kisse &amp; kil. whose eares cā now but <hi>tingle,</hi> or whose heart but <hi>tremble,</hi> to see men so bewitched with soule-seducing error, as to preferre these <hi>stinking</hi> and <hi>stygian</hi> Lakes of leuitie, before those siluer-sliding streames, that issue from vnder the threshold of the Temple.<note place="margin">Ezek. 47.1.</note> O monstrous hel-hounds, wee may iustly wonder at Gods maruailous patience, that hee doth not throw downe balls of Wilde-fire from heauen, to consume and burne you vp. <hi>Bacchus</hi> and <hi>Priapus,</hi> were saints, in compari<g ref="char:EOLhyphen"/>son of so vile and seruile Monsters. A man were as good gripe a toade, and handle a snake, as meddle with these venemous and poysonous Pasquils; as <hi>sullie</hi> and <hi>soyle</hi> our Virgin-soules with these <hi>triuiall</hi> and <hi>triobular,</hi> these <hi>fabulous</hi> and <hi>friuolous</hi> Amorettos. The quill of the <hi>Porcupine</hi> is not so perillous, as the pestiferous and per<g ref="char:EOLhyphen"/>nicious penne of the loose and irreligious Rimer. Yet we like little Children are better pleased with the glit<g ref="char:EOLhyphen"/>tering tinsell of a wanton poet, then with the rich at<g ref="char:EOLhyphen"/>tire of the sacred <hi>Scriptures.</hi> Happely these <hi>Balaams</hi> see not such Angelicall lustre in holy Writ, as in the <hi>vnholy writings</hi> of their so much magnified Magnificos. As tho some drosse will not glister more then the purest gold? Christs Spouse, like a good Matron, seekes to concile loue onely by a graue and gracefull modestie: but these Curtizans by impudent demeanour.<note place="margin">Act. 19.15.</note> The <hi>natiue</hi> beautie of the <hi>Scriptures,</hi> scornes the <hi>vnnaturall</hi> &amp; sophisticated drugs of these bewitching <hi>Jezabels.</hi> Men paint not Mar<g ref="char:EOLhyphen"/>ble walls, but old rags.</p>
+               <p>For Gods sake therefore, and for our owne soules sake, let vs be wiser. Let vs bring these <hi>cursed</hi> &amp; <hi>curious</hi> Bookes, and burne them as a whole burnt <hi>offering,</hi> and <hi>offer</hi> them as <hi>incense,</hi> to appease our <hi>incensed</hi> God.</p>
+               <p>But let vs neuer cease, to turne-ouer the <hi>venerable</hi> Volumes of Authenticke Writ. So <hi>exact</hi> and <hi>exquisit</hi> a <hi>Search</hi> requires an eminent and <hi>farre-excelling</hi> subiect,
+<pb n="41" facs="tcp:8682:26"/> therefore <hi>Search the Scriptures.</hi> Goe to no other field to gather this golden sheafe, neither goe from hence, but abide here for euer, as <hi>Boaz</hi> sayd to <hi>Ruth, Ruth</hi> 2.<note place="margin">
+                     <hi>Ruth</hi> 2.8.</note>
+                  <hi>Let vs in our beds by night, seeke Christ in the Scriptures,</hi> with the Spouse in the <hi>Canticles, Cant.</hi> 3.<note place="margin">
+                     <hi>Cant.</hi> 3.1.</note> with the thrice-noble <hi>Bereans,</hi> let vs dayly <hi>Search the Scriptures, Act.</hi> 17.11. Christ <hi>sought</hi> vs when we were lost;<note place="margin">
+                     <hi>Ephes.</hi> 4.9.</note> hee descended from the <hi>highest</hi> heauens, to the <hi>lowest</hi> parts of the earth to <hi>search</hi> for vs, and shall not wee for him, for his sake, <hi>Search the Scriptures?</hi> Say not in thine heart, <hi>Who shall ascend into heauen?</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 10.6, 7, 8.</note> (that is to bring Christ from aboue:) or <hi>Who shall descend into the deepe?</hi> (that is to bring Christ from the dead.) For what saith <hi>Mo<g ref="char:EOLhyphen"/>ses? The word is neere thee, euen in thy mouth, and in thine heart.</hi> This is the word of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith which we <hi>Preach,</hi>
+                  <note place="margin">
+                     <hi>Deut.</hi> 30.14.</note> this is the word of faith which yee must <hi>search:</hi> Therefore <hi>Search the Scriptures.</hi>
+               </p>
+               <p>Wee haue many <hi>Scrutinies.</hi> The <hi>voluptuous</hi> man searcheth for <hi>pleasures,</hi> the <hi>auaricious</hi> for <hi>treasures,</hi> the <hi>malicious</hi> for <hi>reuenge,</hi> the <hi>ambitious</hi> for <hi>renowne.</hi> The <hi>Scholar</hi> searcheth for <hi>preferment,</hi> the <hi>Merchant</hi> for the <hi>gold</hi> of <hi>Ophir,</hi> the <hi>Souldier</hi> for <hi>victory,</hi> the <hi>Lawyer</hi> for a <hi>Fee,</hi> the <hi>Tradesman</hi> for <hi>trusty</hi> customers, the <hi>Farmer</hi> for a gainefull <hi>seate;</hi> but who is but halfe so diligent, in <hi>searching the Scriptures,</hi> to find out Christ? All these <hi>Searchers</hi> are like <hi>Saul,</hi> who lost himselfe in seeking his Fathers Asses. Like <hi>Israel</hi> in <hi>Egypt,</hi> disperst to picke strawes; and like those Sonnes of the Prophets, that <hi>sought</hi> but found not, 2. <hi>King.</hi> 2.17.</p>
+               <p>But let vs make the sacred <hi>Scripture</hi> the select obiect of our <hi>Search; search</hi> it with delight, <hi>search</hi> it with di<g ref="char:EOLhyphen"/>ligence. If a Poeme delight vs, how are wee rauisht with it? we will read a riming Rhapsodie againe and againe. What <hi>Sonne</hi> loues not frequently to reade his <hi>Fathers Testament,</hi> wherein large Legacies are be<g ref="char:EOLhyphen"/>queath'd vnto him? and shall not wee so loue <hi>the Law
+<pb n="42" facs="tcp:8682:27"/> of our Lord, as to meditate in it day and night,</hi> with <hi>Da<g ref="char:EOLhyphen"/>uid? Psal.</hi> 119.97. Christ himselfe hath honored <hi>Rea<g ref="char:EOLhyphen"/>ding</hi> with his owne <hi>example, Luk.</hi> 4.16. <hi>Hee came to Nazareth, and as his custome was, stood vp to reade the Scriptures.</hi> See here the <hi>Princes patterne</hi> the <hi>Preachers platforme,</hi> the <hi>Lay-mans Lesson:</hi> a <hi>Schoole-master</hi> to teach vs al to <hi>reade,</hi> behold Christ Reading.</p>
+               <p>
+                  <note place="margin">Sabellicus.</note>
+                  <hi>Sabellicus</hi> reporteth, that the <hi>Virgin Mary</hi> diuided the day-time in this manner. In the morning for the space of three houres, she gaue herselfe wholly to deuotion. From thence till mid-day shee wrought. After dinner she neuer fail'd to <hi>reade</hi> the holy Scripture. With vn<g ref="char:EOLhyphen"/>happy <hi>Foelix,</hi>
+                  <note place="margin">Act. 24.25.</note> shee posted not this dutie off vntill a <hi>con<g ref="char:EOLhyphen"/>uenient time,</hi> which neuer came againe. Nor with <hi>A<g ref="char:EOLhyphen"/>hashuerosh,</hi>
+                  <note place="margin">Ester 6.1.</note> did she reade these <hi>Records</hi> in the night, to steale herselfe asleepe, but shee stinted herselfe vnto a dayly taske.</p>
+               <p>It is reported of <hi>Chrisippus,</hi> that he was so Bookish, that hee had perished with hunger, had not his Mayd <hi>Melissa</hi> thrust meat into his mouth. <hi>Demosthenes</hi> was so diligent at his Deske, that hee much murmured and repined, that the <hi>Smith</hi> should be earlier at his <hi>Anuill</hi> or <hi>Stithy,</hi> then he at his <hi>Bookes</hi> and <hi>Studdy.</hi> Humane lear<g ref="char:EOLhyphen"/>ning did beare so high rule in these mens thoughts, that it animated them to any tedious onset: and shall wee be dismayd and discouraged, by any <hi>forged</hi> and <hi>fayned</hi> difficulties, from being studious in this Diuine litera<g ref="char:EOLhyphen"/>ture?</p>
+               <p>Now then (good Christians) for the conclusion of all, <hi>blesse</hi> the Almightie, for these blessed dayes, wherein (vnder our dread Soueraigne) wee enioy the <hi>Gospell of Peace,</hi> and <hi>the Peace of the Gospell.</hi> I tell you, that many Prophets and Princes haue desired to see the things which your eyes behold, but could not. How <hi>long</hi> was this our <hi>Iland,</hi> and that not <hi>long</hi> since, another <hi>Aegypt,</hi> which diuers hundred yeares, could not bee cured of
+<pb n="43" facs="tcp:8682:27"/> her papall blindnes, of her grosse and palpable darknes? How did those <hi>Aegyptians</hi> storme, when <hi>Moses</hi> and <hi>Aaron, Crumwell</hi> and <hi>Cranmer</hi> came, to deliuer Gods Is<g ref="char:EOLhyphen"/>rael, from that<note n="*" place="margin">Acheron is of Poets taken for the riuer of Hell, but is indeed a riuer in <hi>Italy,</hi> so enuironed with Hills, that the Sunne shines not on it, but only in the midst of day.</note> Acheronticall ignorance? How did they rage at <hi>Tindals</hi> Translation? some affirming, <hi>that it would make the People Hereticks:</hi> others, <hi>that it would cause them to rebell.</hi> Deare Christians, let vs not againe in our wishes, apostatize to so foule a religion, preferring the <hi>Leckes</hi> &amp; <hi>Onions</hi> of this <hi>odious</hi> Egypt, before the food of Angels, this Manna of written Verities. Let not our defection be the vgly fruite of so <hi>cleere Scriptures,</hi> of so <hi>clement Scepters,</hi> as haue gouerned vs in the incompara<g ref="char:EOLhyphen"/>ble succession of two such religious Soueraignes. Who can but <hi>blush</hi> and <hi>bleed,</hi> to see Christian soules so grossely cheated, with the guilded <hi>slips</hi> of <hi>sly,</hi> and erro<g ref="char:EOLhyphen"/>neous superstition? Let me therefore adiure you by the glorious Name of IESVS, as you tender the safety of your soules, in any wise beware of corner-creeping <hi>Ie<g ref="char:EOLhyphen"/>suits.</hi> Listen to the <hi>Songs</hi> of <hi>Sion,</hi> not to the <hi>Siren-songs</hi> of seducing Seminaries. Be not inchanted with their Charmes, but stoppe your cares at their venemous insi<g ref="char:EOLhyphen"/>nuations. Be not enamoured on them for their faire lookes, remembring, the <hi>Scorpion</hi> hath an amiable face, but carries in his tayle a poysonous sting. Be not moued with their counterfet commiseration towards you, though endeered with teares, remembring, the <hi>Crocodile</hi> can weepe, not to preuent, but to procure death. Be not <hi>angled</hi> with their sugred promises, nor <hi>angred</hi> with their swelling menaces, the one be as <hi>idle</hi> as the other <hi>addle.</hi> Their often calculated, but hitherto (and I pray God e<g ref="char:EOLhyphen"/>uer to be) adiourned golden day, hath not yet dawn'd vpon them. And thou most mightie <hi>Jehouah,</hi> thou Lord of <hi>Hosts,</hi> still scatter our cruell <hi>enemies</hi> that delight in blood. <hi>Infatuate</hi> their Counsels, and enfeeble their for<g ref="char:EOLhyphen"/>ces still more and more. Be also a Tower of defence to
+<pb n="44" facs="tcp:8682:28"/> those thy seruants, that now suffer <hi>persecution,</hi> for the <hi>profession</hi> of thy true Religion: <hi>Conuert</hi> or <hi>confound</hi> their furious opposits; and in thine owne time, and by thine owne meanes, giue them a comfortable de<g ref="char:EOLhyphen"/>liuerance out of all their distresses, turning thy fury from them vpon their foes, fitting and preparing vs for harder times. Hearken to the cry of the blood of thy Saints that is now shed in defence of thy truth, and let euery drop thereof sound more shrilly in thine eares, then did the blood of <hi>Abel,</hi> to pull downe vengeance vpon the heads of those that hate the distressed, the despised and dispersed of <hi>Israel.</hi> Heare, oh heare vs praying for thy Church militant: helpe, oh helpe thy <hi>contemned</hi> Church,<note place="margin">Iude verse <hi>3.</hi>
+                  </note> earnestly <hi>contending</hi> for the mainte<g ref="char:EOLhyphen"/>nance of the Faith. For thy <hi>Churches</hi> sake, for <hi>Religions</hi> sake, for thy <hi>Honors</hi> sake, for thy <hi>Sons</hi> sake heare vs. To whom with thee O Father, and the Holy Spirit, bee a<g ref="char:EOLhyphen"/>scribed and rendred, all honor and glory, all power and praise, all dignitie and dominion, now and for euer<g ref="char:EOLhyphen"/>more; <hi>Amen. Amen.</hi>
+               </p>
+               <closer>Ternae &amp; aeternae Trinitati, ascribatur honor omnis, gloria, dignitas{que} in saecula saeculorum.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:8682:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
